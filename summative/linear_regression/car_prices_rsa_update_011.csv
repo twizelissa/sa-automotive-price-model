@@ -1,0 +1,2575 @@
+Brand,Model,Model_Description,Price,Engine_Size
+Suzuki,S-Presso,1.0 GL,162900.0,1.0
+Suzuki,S-Presso,1.0 GL+,169900.0,1.0
+Suzuki,Celerio,1.0 GA,178900.0,1.0
+Renault,Kwid,1.0 Life,180999.0,1.0
+Suzuki,S-Presso,1.0 S-Edition,185900.0,1.0
+Renault,Kwid,1.0 Zen,190999.0,1.0
+Suzuki,DZire,1.2 GA,193900.0,1.2
+Suzuki,Swift,1.2 GA,194900.0,1.2
+Suzuki,Celerio,1.0 GL,198900.0,1.0
+Suzuki,S-Presso,1.0 S-Edition,199900.0,1.0
+Toyota,Agya,1.0,200000.0,1.0
+Renault,Kwid,1.0 Climber,201999.0,1.0
+Kia,Picanto,1.0 Start,209995.0,1.0
+Suzuki,DZire,1.2 GL,211900.0,1.2
+Suzuki,Swift,1.2 GL,212900.0,1.2
+Hyundai,Grand,i10 1.0 Motion,214900.0,1.0
+Kia,Picanto,1.0 Start,223995.0,1.0
+Honda,Amaze,1.2 Trend,231200.0,1.2
+Suzuki,Baleno,1.5 GL,231900.0,1.5
+Suzuki,Swift,1.2 GLX,232900.0,1.2
+Kia,Picanto,1.2 Street,232995.0,1.2
+Toyota,Starlet,1.5 Xi,233000.0,1.5
+Kia,Picanto,1.0 Style,233995.0,1.0
+Kia,Picanto,1.2 Style,242995.0,1.2
+Toyota,Starlet,1.5 XS,246300.0,1.5
+Hyundai,Grand,i10 1.0 Fluid,246900.0,1.0
+Volkswagen,Polo Vivo,1.4 Trendline,247300.0,1.4
+Honda,Amaze,1.2 Comfort,247800.0,1.2
+Kia,Pegas,1.4 LX,254995.0,1.4
+Suzuki,Ciaz,1.5 GL,256900.0,1.5
+Kia,Picanto,1.2 X-Line,259995.0,1.2
+Hyundai,Grand,i10 1.2 Fluid,261900.0,1.2
+Kia,Pegas,1.4 EX,265995.0,1.4
+Volkswagen,Polo Vivo,1.4 Comfortline,266900.0,1.4
+Suzuki,Vitara Brezza,1.5 GL S-Edition,281900.0,1.5
+Hyundai,Grand,i10 1.2 Fluid,291900.0,1.2
+Toyota,Starlet,1.5 XR,294900.0,1.5
+Volkswagen,Polo Vivo,1.6 Highline,296000.0,1.6
+Suzuki,Ciaz,1.5 GLX,296900.0,1.5
+Kia,Rio,1.2 LS,299995.0,1.2
+Mazda,Mazda2,1.5 Active,302300.0,1.5
+Hyundai,i20,1.2 Motion,304900.0,1.2
+Citroën,C3,1.2 Feel,305900.0,1.2
+Toyota,Corolla Quest,1.8 Plus,307400.0,1.8
+Renault,Kiger,1.0 Turbo Intens,309999.0,1.0
+Kia,Rio,1.4 LS,313995.0,1.4
+Hyundai,i20,1.2 Fluid,319900.0,1.2
+Renault,Clio,1.0 Turbo Zen,324999.0,1.0
+Opel,Corsa,1.2,325900.0,1.2
+Fiat,Tipo Sedan,1.4,327900.0,1.4
+Kia,Rio,1.4 LX,328995.0,1.4
+Suzuki,Vitara Brezza,1.5 GLX auto,329900.0,1.5
+Mazda,Mazda2,1.5 Dynamic,330200.0,1.5
+Volkswagen,Polo Sedan,1.6,332400.0,1.6
+Volkswagen,Polo Vivo,1.0TSI GT,332800.0,1.0
+Volkswagen,Polo Hatch,1.0TSI 70kW,334400.0,1.0
+Kia,Rio,1.4 EX,341995.0,1.4
+Toyota,Corolla Quest,1.8 Prestige,348400.0,1.8
+Suzuki,Jimny,1.5 GL AllGrip,356900.0,1.5
+Ford,EcoSport,1.0T Trend,358700.0,1.0
+Volkswagen,Polo Sedan,1.6 Life,360900.0,1.6
+Hyundai,Venue,1.0T Motion,362900.0,1.0
+Mahindra,XUV300,1.5TD W8,364999.0,1.5
+Kia,Rio,1.4 Tec,366995.0,1.4
+Isuzu,D-Max Gen,6 250c Single Cab Fleetside,367500.0,
+Volkswagen,Polo Hatch,1.0TSI 70kW Life,375400.0,1.0
+Honda,BR-V,1.5 Trend,379900.0,1.5
+Fiat,Tipo Hatch,1.4 City Life,390900.0,1.4
+Suzuki,Swift,1.4T Sport,392900.0,1.4
+Fiat,Tipo Sedan,1.4 City Life,404900.0,1.4
+Honda,BR-V,1.5 Comfort,409900.0,1.5
+Mazda,Mazda3 Hatch,1.5 Active,421900.0,1.5
+Fiat,Tipo Hatch,1.4 Life,430900.0,1.4
+Mazda,Mazda3 Hatch,1.5 Dynamic,438600.0,1.5
+Abarth,500,595 competizione 1.4T,491900.0,1.4
+Isuzu,D-Max,1.9TD Extended cab LS,494000.0,1.9
+Abarth,500,595 Monster Energy Yamaha Cabriolet,509900.0,
+Toyota,GR86,,712100.0,
+Toyota,GR Yaris,1.6T GR-Four Rally,791900.0,1.6
+Subaru,WRX,2.4T,799000.0,2.4
+Honda,Civic Type,R,857500.0,
+Ford,Mustang,5.0 Mach 1 Fastback,1210000.0,5.0
+BMW,M2,Coupé ,1513689.0,
+Porsche,718 Cayman,GTS 4.0,1549000.0,4.0
+Porsche,718 Boxster,GTS 4.0,1589000.0,4.0
+Porsche,718 Spyder,Spyder,1839000.0,
+Porsche,718 Cayman,GT4,1919000.0,
+Porsche,911,Carrera T,2080000.0,
+Porsche,Taycan,4 Cross Turismo,2449000.0,
+Porsche,911,Carrera GTS Cabriolet,2679000.0,
+Porsche,911,GT3,3349000.0,
+Porsche,911 Sport,Classic,5169000.0,
+Suzuki,S-Presso,1.0 GL,176900.0,1.0
+Suzuki,S-Presso,1.0 GL+,183900.0,1.0
+Renault,Kwid,1.0 Zen,200999.0,1.0
+Hyundai,Atos,1.1 Motion,209900.0,1.1
+Renault,Kwid,1.0 Climber,211999.0,1.0
+Suzuki,Celerio,1.0 GL,213900.0,1.0
+Toyota,Agya,1.0,215600.0,1.0
+Suzuki,DZire,1.2 GL,226900.0,1.2
+Suzuki,Swift,1.2 GL,227900.0,1.2
+Kia,Picanto,1.0 Street,237995.0,1.0
+Hyundai,Grand,i10 1.0 Motion,242900.0,1.0
+Kia,Picanto,1.2 Street,246995.0,1.2
+Kia,Picanto,1.0 Style,247995.0,1.0
+Suzuki,Swift,1.2 GLX,248900.0,1.2
+Fiat,500 TwinAir,Cult,249900.0,
+Suzuki,Baleno,1.5 GL,251900.0,1.5
+Kia,Picanto,1.2 Style,256995.0,1.2
+Honda,Amaze,1.2 Comfort,266800.0,1.2
+Toyota,Starlet,1.5 XS,268900.0,1.5
+Suzuki,Ciaz,1.5 GL,273900.0,1.5
+Kia,Picanto,1.2 X-Line,273995.0,1.2
+Kia,Pegas,1.4 EX,280995.0,1.4
+Fiat,500 TwinAir,Club,289900.0,
+Volkswagen,Polo Vivo,1.6 Comfortline,296600.0,1.6
+Suzuki,Vitara Brezza,1.5 GL S-Edition auto,301900.0,1.5
+Nissan,Almera,1.5 Acenta,310000.0,1.5
+Suzuki,Ciaz,1.5 GLX,311900.0,1.5
+Toyota,Starlet,1.5 XR,313300.0,1.5
+Fiat,500 TwinAir,Dolcevita,322900.0,
+Toyota,Corolla Quest,1.8 Plus,329000.0,1.8
+Kia,Rio,1.4 LS,330995.0,1.4
+Chery,Tiggo,4 Pro 1.5 Comfort,336900.0,1.5
+Kia,Rio,1.4 LX,345995.0,1.4
+Honda,Fit,1.5 Comfort,347500.0,1.5
+Mazda,Mazda2,1.5 Dynamic,349100.0,1.5
+Kia,Rio,1.4 EX,358995.0,1.4
+Fiat,500,500C TwinAir Dolcevita,359900.0,
+Toyota,Corolla Quest,1.8 Prestige,360600.0,1.8
+Honda,Ballade,1.5 Comfort,374000.0,1.5
+JAC,T6,1.9TDi Double Cab Comfort,374900.0,1.9
+Mazda,Mazda2,1.5 Individual,379500.0,1.5
+Toyota,Corolla Quest,1.8 Exclusive,379600.0,1.8
+Volkswagen,Polo Sedan,1.6 Life,381700.0,1.6
+Kia,Rio,1.4 Tec,383995.0,1.4
+Honda,Fit,1.5 Elegance,391000.0,1.5
+BAIC,Beijing,X55 1.5T Dynamic,394900.0,1.5
+Volkswagen,Polo Hatch,1.0TSI 85kW Life,397500.0,1.0
+Mazda,Mazda2,1.5 Hazumi,407400.0,1.5
+Honda,Ballade,1.5 Elegance,407700.0,1.5
+Suzuki,Swift,1.4T Sport,415900.0,1.4
+JAC,T6,2.8TDi Double Cab 4WD Lux,419900.0,2.8
+Honda,Fit,1.5 Executive,423500.0,1.5
+Hyundai,Creta,1.5 Premium,428900.0,1.5
+Opel,Corsa,1.2T Elegance,436900.0,1.2
+Honda,Ballade,1.5 RS,440900.0,1.5
+Volkswagen,Polo hatch,1.0TSI 85kW R-Line,445500.0,1.0
+Fiat,Tipo Hatch,1.6 City Life,451900.0,1.6
+Mazda,Mazda3 Hatch,1.5 Dynamic,453300.0,1.5
+MINI,One Hatch,3-door,453707.0,
+Honda,BR-V,1.5 Elegance,459900.0,1.5
+MINI,One Hatch,5-door,464975.0,
+Audi,A1 Sportback,30TFSI,467300.0,
+Suzuki,Vitara,1.4T GLX auto,469900.0,1.4
+Audi,A1 Sportback,30TFSI S line,489800.0,
+Volkswagen,Taigo,1.0TSI Style,489900.0,1.0
+Toyota,Corolla Hatch,1.8 Hybrid XS,500700.0,1.8
+Mazda,Mazda3 Hatch,1.5 Individual,508800.0,1.5
+Honda,Fit Hybrid,,509600.0,
+Toyota,Corolla,1.8 Hybrid XS,512700.0,1.8
+Volkswagen,Polo GTI,GTI,522500.0,
+Toyota,Corolla,2.0 XR,527400.0,2.0
+Audi,A1 Sportback,35TFSI,527900.0,
+Toyota,Corolla Hatch,2.0 XR,529000.0,2.0
+Toyota,Corolla,1.8 Hybrid XR,532200.0,1.8
+MINI,Cooper Hatch,3-door,534873.0,
+Toyota,Corolla Hatch,1.8 Hybrid XR,539000.0,1.8
+MINI,Cooper Hatch,5-door,546220.0,
+Audi,A1 Sportback,35TFSI S line,550400.0,
+Honda,HR-V,1.5 Executive,554500.0,1.5
+Audi,A1 Sportback,40TFSI S line,576200.0,
+MINI,Cooper S,Hatch 3-door,615162.0,
+Audi,A3 Sportback,35TFSI,622800.0,
+MINI,Cooper S,Hatch 3-door Resolute Edition,624662.0,
+MINI,Cooper S,Hatch 5-door,626053.0,
+MINI,Cooper S,Hatch 5-door Resolute Edition,635553.0,
+Audi,A3 Sedan,35TFSI,637800.0,
+BMW,118i,,641072.0,
+MINI,Cooper Convertible,,641661.0,
+Audi,A3 Sportback,35TFSI S line,662800.0,
+BMW,118i,M Sport,676772.0,
+Audi,A3 Sedan,35TFSI S line,677800.0,
+BMW,118d,,679250.0,
+Honda,Civic Sedan,1.5T RS,689100.0,1.5
+BMW,218i,Gran Coupé,691072.0,
+Audi,A3 Sportback,40TFSI S line,710600.0,
+BMW,118d,M Sport,714950.0,
+MINI,John Cooper,Works Hatch 3-door,719464.0,
+Audi,A3 Sedan,40TFSI S line,725600.0,
+BMW,218i,Gran Coupé M Sport,726772.0,
+Volkswagen,Golf GTI,Jacara Edition,727500.0,
+Mercedes-Benz,A200,Hatch Progressive,729554.0,
+BMW,218d,Gran Coupé,729858.0,
+MINI,Cooper S,Convertible,739010.0,
+Audi,A4,35TFSI,740700.0,
+MINI,Cooper SE,Hatch 3-door,742102.0,
+BMW,220i,Gran Coupé,742590.0,
+Volkswagen,Golf GTI,GTI,744200.0,
+MINI,Cooper SE,Hatch 3-door Resolute Edition,745402.0,
+Toyota,GR86,,748400.0,
+MINI,Cooper S,Convertible Resolute Edition,748510.0,
+Mercedes-Benz,A200,Hatch AMG Line,758554.0,
+BMW,128ti,,764260.0,
+BMW,218d,Gran Coupé M Sport,765558.0,
+BMW,318i,,767894.0,
+Lexus,ES,250 EX,771400.0,
+BMW,220i,Gran Coupé M Sport,778290.0,
+Hyundai,Kona N,,779900.0,
+Audi,A4,35TDI,784500.0,
+Mercedes-Benz,A200 Sedan,Sedan Progressive,784554.0,
+Volkswagen,Tiguan,2.0TDI 130kW 4Motion R-Line,794800.0,2.0
+Mercedes-Benz,A200 Sedan,Sedan AMG Line,813554.0,
+BMW,318i,M Sport,817894.0,
+Audi,A4,35TDI S line,829500.0,
+Lexus,ES,300h EX,829900.0,
+BMW,320i,,832894.0,
+Audi,A5 Coupé,40TFSI,834300.0,
+Audi,A4,40TFSI S line,839800.0,
+BMW,220i,Coupé M Sport,842590.0,
+Audi,A5 Sportback,40TFSI,849300.0,
+BMW,420i,Coupé ,852742.0,
+Mercedes-Benz,CLA200,Progressive,856463.0,
+Subaru,WRX,2.4T tS ES,877000.0,2.4
+Audi,A5 Coupé,40TFSI S line,879300.0,
+BMW,320d,,880768.0,
+BMW,320i,M Sport,882894.0,
+Audi,S3 Sportback,quattro,883100.0,
+Mercedes-Benz,CLA200 AMG,Line,885463.0,
+BMW,220d,Coupé M Sport,889706.0,
+Audi,TTS Coupé,quattro,894100.0,
+Audi,A5 Sportback,40TFSI S line,894300.0,
+Audi,S3 Sedan,quattro,898100.0,
+Mercedes-Benz,CLA220d,Progressive,899749.0,
+BMW,420d,Coupé ,899858.0,
+Renault,Mégane RS,300 Trophy,899999.0,
+BMW,420i,Coupé M Sport,904842.0,
+Mercedes-Benz,C200 Coupé,AMG Line,912563.0,
+Volvo,S90,B5 Essential,922600.0,
+Audi,A5 Coupé,40TDI quattro S line,928300.0,
+Mercedes-Benz,CLA220d AMG,Line,928749.0,
+BMW,M135i,xDrive ,930537.0,
+BMW,320d,M Sport,930768.0,
+Lexus,NX,350h AWD EX,942700.0,
+Audi,A5 Sportback,40TDI quattro S line,943300.0,
+BMW,420d,Coupé M Sport,951958.0,
+BMW,420i,Gran Coupé M Sport,953197.0,
+Mercedes-Benz,C220d Coupé,AMG Line,954850.0,
+BMW,Z4,sDrive20i M Sport,963645.0,
+Mercedes-Benz,C200,Avantgarde,966156.0,
+BMW,M235i,xDrive Gran Coupé,980840.0,
+BMW,420i,Convertible ,987853.0,
+Mercedes-Benz,E200,Avantgarde,993289.0,
+Volvo,S90,B5 Plus Dark,998300.0,
+BMW,420d,Gran Coupé M Sport,1000313.0,
+Volvo,S90,B5 Plus Bright,1002500.0,
+Mercedes-AMG,A35 Sedan,4Matic,1006041.0,
+Lexus,IS,300h SE,1008300.0,
+Mercedes-Benz,C200 AMG,Line,1020156.0,
+Lexus,ES,300h SE,1021300.0,
+Mercedes-Benz,C220d,Avantgarde,1030549.0,
+Volvo,S90,B5 Ultimate Dark,1035400.0,
+Lexus,IS,300h F Sport,1036400.0,
+Volvo,S90,B5 Ultimate Bright,1039300.0,
+Audi,A6,40TDI,1041000.0,
+BMW,420i,convertible M Sport,1044553.0,
+Mercedes-Benz,C300 Coupé,AMG Line,1048213.0,
+Mercedes-Benz,E200 AMG,Line,1059589.0,
+Mercedes-Benz,C200 Cabriolet,AMG Line,1062081.0,
+Mercedes-Benz,E220d,Avantgarde,1066926.0,
+BMW,520d,,1081376.0,
+BMW,530i,,1083956.0,
+Mercedes-Benz,C220d AMG,Line,1084549.0,
+Alfa,Romeo Giulia,2.0T Veloce,1086900.0,2.0
+Jaguar,E-Pace,D200 AWD R-Dynamic SE,1087000.0,
+Audi,A6,40TDI sports S line,1090700.0,
+Mercedes-AMG,A35 Hatch,4Matic,1112448.0,
+Ford,Mustang,5.0 GT Fastback,1117500.0,5.0
+Mercedes-Benz,E220d AMG,Line,1133226.0,
+BMW,M240i,xDrive Coupé,1138662.0,
+BMW,520d,M Sport,1143776.0,
+BMW,530i,M Sport,1146356.0,
+Toyota,GR Supra,3.0T Track,1155900.0,3.0
+Mercedes-AMG,CLA35,4Matic,1166348.0,
+Audi,S5 TFSI,Coupé quattro,1169400.0,
+Mercedes-Benz,C300 Cabriolet,AMG Line,1182231.0,
+Audi,S5 TFSI,Sportback quattro,1184400.0,
+Volvo,S90,B6 AWD Plus Dark,1186900.0,
+Ford,Mustang,5.0 GT/CS California Special fastback,1187500.0,5.0
+Volvo,S90,B6 AWD Plus Bright,1190800.0,
+Ford,Mustang,5.0 GT Convertible,1194000.0,5.0
+Audi,TT RS,Coupé quattro,1211200.0,
+Porsche,Macan T,,1215000.0,
+Volvo,S90,B6 AWD Ultimate Dark,1223900.0,
+Volvo,S90,B6 AWD Ultimate Bright,1227800.0,
+Ford,Mustang,5.0 Mach 1 Fastback,1233400.0,5.0
+Mercedes-Benz,E300 Coupé,AMG Line,1240989.0,
+Audi,RS3 Sedan,quattro,1245000.0,
+Audi,A6,45TDI quattro,1245700.0,
+Mercedes-AMG,A45 S,Hatch 4Matic+,1256243.0,
+Audi,TT RS,Roadster quattro,1267100.0,
+Audi,S5 TFSI,Cabriolet quattro,1269400.0,
+BMW,Z4,M40i,1286537.0,
+Audi,A6,45TDI quattro sports S line,1295400.0,
+Toyota,GR Supra,3.0T,1300600.0,3.0
+BMW,M440i,xDrive Coupé,1327599.0,
+BMW,M340i,xDrive ,1338207.0,
+Mercedes-AMG,C43 Coupé,4Matic,1358432.0,
+Mercedes-Benz,E300 Cabriolet,AMG Line,1393444.0,
+BMW,M440i,xDrive Gran Coupé,1413966.0,
+BMW,M440i,xDrive Convertible,1439117.0,
+Mercedes-AMG,CLA45 S,4Matic+,1466237.0,
+Land Rover,Range Rover Evoque,P300e Bronze Collection,1469700.0,
+Mercedes-AMG,C43 Cabriolet,4Matic,1489495.0,
+BMW,M2,Coupé ,1503975.0,
+Audi,A7 Sportback,55TFSI quattro S line,1505980.0,
+Audi,RS5 Coupé,quattro,1552700.0,
+Audi,RS5 Sportback,quattro,1567700.0,
+Audi,S6 TFSI,quattro,1586900.0,
+Lexus,RC F,,1615000.0,
+BMW,i4,M50,1637900.0,
+BMW,M550i,xDrive ,1647922.0,
+Porsche,Panamera,,1669000.0,
+Audi,S7 TFSI,Sportback quattro,1699300.0,
+Porsche,Panamera,4,1770000.0,
+Mercedes-AMG,E53 Coupé,4Matic+,1780103.0,
+Mercedes-Benz,EQE,350+ Sedan,1800000.0,
+Alfa,Romeo Giulia,Quadrifoglio,1805900.0,
+Porsche,911,Carrera Coupé,1849000.0,
+Jaguar,F-Type,75 Coupé,1931000.0,
+Mercedes-AMG,E53 Cabriolet,4Matic+,1931407.0,
+Porsche,Panamera Platinum,Edition,1961000.0,
+Porsche,911,Carrera 4 Coupé,1979000.0,
+Porsche,Panamera,4 executive,2024000.0,
+BMW,M3,competition M xDrive,2040797.0,
+Porsche,Panamera,4 Platinum Edition,2063000.0,
+Porsche,911,Carrera Cabriolet,2079000.0,
+Mercedes-AMG,C63 S,Coupé,2098389.0,
+Porsche,Cayenne,e-hybrid Coupé Platinum Edition,2119000.0,
+BMW,M4,competition Coupé M xDrive,2120797.0,
+Porsche,911,Carrera S Coupé,2159000.0,
+BMW,740i,Design Pure Excellence,2172751.0,
+Porsche,Taycan,,2179000.0,
+Mercedes-AMG,EQE,43 4Matic Sedan,2200000.0,
+BMW,M4,competition Convertible M xDrive,2201556.0,
+Mercedes-AMG,C63 S,Cabriolet,2204756.0,
+Porsche,911,targa 4,2209000.0,
+BMW,740i,M Sport,2247751.0,
+Maserati,Ghibli,GT,2250000.0,
+BMW,M850i,xDrive Gran Coupé,2252922.0,
+Porsche,911,Carrera 4S Coupé,2289000.0,
+BMW,740d,xDrive Design Pure Excellence,2293207.0,
+BMW,M850i,xDrive Coupé,2302922.0,
+Porsche,Panamera,4 e-hybrid Platinum Edition,2335000.0,
+Porsche,Panamera,4 e-hybrid executive,2359000.0,
+Audi,RS7 Sportback,quattro,2366400.0,
+BMW,740d,xDrive M Sport,2368207.0,
+Lexus,LC,500 Coupé,2371000.0,
+Porsche,911,Carrera S Cabriolet,2389000.0,
+Lexus,LS,500 F Sport,2397600.0,
+Mercedes-Benz,S350d L,,2435939.0,
+BMW,M850i,xDrive Convertible,2452922.0,
+Porsche,Panamera GTS,,2463000.0,
+BMW,M5,competition ,2472466.0,
+Porsche,Panamera,4S e-hybrid,2479000.0,
+Mercedes-Benz,S350d L,AMG Line,2512639.0,
+Lexus,LC,500 Convertible,2513500.0,
+Porsche,Taycan,4S,2519000.0,
+Lexus,LS,500h,2525100.0,
+Porsche,911,Carrera 4 GTS Coupé,2579000.0,
+Lexus,RC F,Track Edition,2579100.0,
+Porsche,718 Cayman,GT4 RS,2588000.0,
+Lexus,LS,500,2595400.0,
+Mercedes-Benz,EQS,450+ Sedan,2620500.0,
+Mercedes-AMG,E63 S,4Matic+,2670479.0,
+Audi,e-tron GT,quattro,2715000.0,
+Mercedes-Benz,S500 L,4Matic,2735064.0,
+Jaguar,F-Type,R75 Coupé,2759000.0,
+Mercedes-Benz,EQS,450+ Sedan AMG Line,2760500.0,
+Porsche,911,targa 4 GTS,2809000.0,
+Mercedes-Benz,S500 L,4Matic AMG Line,2811764.0,
+BMW,i7,xDrive60,2825000.0,
+Maserati,Quattroporte,GT,2850000.0,
+BMW,i7,xDrive60 M Sport,2900000.0,
+Porsche,911,targa Edition 50 Years Porsche Design,3029000.0,
+Porsche,Taycan GTS,,3059000.0,
+Porsche,Taycan turbo,,3329000.0,
+Maserati,Ghibli,Trofeo,3350000.0,
+Audi,RS e-tron,GT quattro,3359400.0,
+BMW,M8,competition Gran Coupé,3372466.0,
+Porsche,Panamera turbo,S,3388000.0,
+Mercedes-AMG,EQS,53 4Matic+ Sedan,3415250.0,
+BMW,M8,competition Coupé,3421859.0,
+Maserati,Quattroporte,Modena,3450000.0,
+Audi,R8 Coupé,V10 performance quattro,3523600.0,
+BMW,M8,competition Convertible,3572618.0,
+Porsche,Panamera turbo,S e-hybrid,3582000.0,
+Porsche,911 turbo,Coupé,3669000.0,
+Mercedes-Maybach,S580,,3736681.0,
+Audi,R8 Spyder,V10 performance quattro,3795100.0,
+Porsche,911 turbo,Cabriolet,3899000.0,
+Porsche,Taycan turbo,S,3909000.0,
+Porsche,911 Dakar,,4140000.0,
+Porsche,911,GT3 RS,4153000.0,
+Porsche,911 turbo,S Coupé,4179000.0,
+Porsche,911 turbo,S Cabriolet,4409000.0,
+Bentley,Flying Spur,V8,4420000.0,
+Maserati,Quattroporte,Trofeo,4500000.0,
+Bentley,Flying Spur,Hybrid,4520000.0,
+Bentley,Continental GT,V8,4590000.0,
+Mercedes-Maybach,S680,,4656157.0,
+Bentley,Continental GTC,V8,5060000.0,
+Bentley,Flying Spur,V8 S,5100000.0,
+Bentley,Continental GT,S,5150000.0,
+Bentley,Flying Spur,Hybrid Azure,5280000.0,
+Bentley,Flying Spur,V8 Azure,5320000.0,
+Bentley,Flying Spur,Speed,5440000.0,
+Lamborghini,Huracán,Tecnica,5475000.0,
+Bentley,Continental GT,Azure,5520000.0,
+Bentley,Continental GTC,S,5680000.0,
+Bentley,Continental GT,Speed,5690000.0,
+Bentley,Continental GTC,Azure,6080000.0,
+Bentley,Continental GT,V8 Mulliner,6180000.0,
+Bentley,Continental GTC,Speed,6270000.0,
+Bentley,Flying Spur,V8 Mulliner,6460000.0,
+Bentley,Flying Spur,Hybrid Mulliner,6560000.0,
+Bentley,Continental GTC,V8 Mulliner,6690000.0,
+Bentley,Flying Spur,W12 Mulliner,6700000.0,
+Maserati,MC20,Coupé,6750000.0,
+Bentley,Continental GT,W12 Mulliner,6770000.0,
+Ferrari,296,GTB,6804200.0,
+Bentley,Continental GTC,W12 Mulliner,7460000.0,
+Ferrari,296,GTS,7494800.0,
+Lamborghini,Huracán,STO,8275000.0,
+Renault,Triber,1.0 Life,203999.0,1.0
+Renault,Triber,1.0 Zen,213999.0,1.0
+Renault,Triber,1.0 Intens,229999.0,1.0
+Renault,Triber,1.0 Intens auto,239999.0,1.0
+Suzuki,Ignis,1.2 GLX auto,258900.0,1.2
+Toyota,Rumion,1.5 S,265800.0,1.5
+Toyota,Rumion,1.5 SX,296100.0,1.5
+Hyundai,Venue,1.2 Motion,299900.0,1.2
+Toyota,Rumion,1.5 SX auto,313000.0,1.5
+Suzuki,Ertiga,1.5 GL auto,316900.0,1.5
+Toyota,Rumion,1.5 TX,326400.0,1.5
+Mitsubishi,Xpander,1.5,339995.0,1.5
+Toyota,Rumion,1.5 TX auto,343200.0,1.5
+Mitsubishi,Xpander,1.5 auto,359995.0,1.5
+Volkswagen,Caddy Kombi,1.6,433400.0,1.6
+Fiat,Doblò Cargo,Maxi 1.3 Multijet Crew Cab SX,447900.0,1.3
+Opel,Combo Life,1.6TD Enjoy,464900.0,1.6
+Fiat,Doblò Cargo,Maxi 1.6 Multijet Crew Cab SX,466900.0,1.6
+JAC,T8,2.0CTi Double Cab 4WD Lux,499900.0,2.0
+Volkswagen,Caddy Kombi,2.0TDI,500200.0,2.0
+Volkswagen,Caddy,1.6,509000.0,1.6
+Volkswagen,Caddy Maxi,Kombi 2.0TDI,528200.0,2.0
+MINI,Cooper Clubman,,596215.0,
+Volkswagen,Caddy,2.0TDI,602700.0,2.0
+Hyundai,Kona,1.6T N Line,615900.0,1.6
+Volkswagen,Caddy Maxi,2.0TDI,630600.0,2.0
+Toyota,Hiace,2.5D-4D Bus 14-seater GL,680900.0,2.5
+MINI,Cooper S,Clubman,691799.0,
+Ford,Tourneo Custom,2.2TDCi LWB Ambiente,692700.0,2.2
+Volkswagen,Transporter,2.0TDI 81kW Crew Bus LWB 10-Seater,696800.0,2.0
+Mercedes-Benz,Vito,111 CDI Tourer Base,707643.0,
+MINI,Cooper S,Clubman Untold Edition,714799.0,
+Ford,Tourneo Custom,2.2TDCi LWB Trend,720500.0,2.2
+Volkswagen,Transporter,2.0TDI 110kW Crew Bus LWB 5-Seater,724700.0,2.0
+Subaru,Outback,2.5i-Field ES,728000.0,2.5
+Mercedes-Benz,Vito,111 CDI Mixto Crewcab,747965.0,
+Toyota,Quantum,2.8 LWB Bus 11-seater GL,758200.0,2.8
+Hyundai,Staria,2.2D Multicab,764900.0,2.2
+Toyota,Quantum,2.8 SLWB Bus 14-seater GL,775200.0,2.8
+Ford,Tourneo Custom,2.2TDCi SWB Limited,779000.0,2.2
+Ford,Tourneo Custom,2.0SiT LWB Trend,781100.0,2.0
+Subaru,Outback,2.5i-Touring ES,788000.0,2.5
+Toyota,Quantum,2.8 SLWB Bus 14-seater GL auto,793600.0,2.8
+Volkswagen,Transporter,2.0BiTDI 146kW Crew Bus SWB 4Motion 5-Seater,806500.0,2.0
+Opel,Zafira Life,2.0TD Edition,819000.0,2.0
+Volkswagen,Transporter,2.0TDI 81kW Kombi SWB Trendline,820200.0,2.0
+Kia,Carnival,2.2CRDi EX,824995.0,2.2
+Ford,Tourneo Custom,2.0SiT SWB Limited,827300.0,2.0
+Hyundai,Staria,2.2D Executive 9-seater,835900.0,2.2
+Hyundai,Staria,2.2D Executive 11-seater,846900.0,2.2
+Volkswagen,Transporter,2.0TDI 110kW Kombi SWB Trendline,853200.0,2.0
+MINI,John Cooper,Works ALL4 Clubman,855697.0,
+Mercedes-Benz,Vito,114 CDI Mixto Pro Crewcab,857845.0,
+Volkswagen,Transporter,2.0BiTDI 146kW Crew Bus LWB 4Motion 8-Seater,858600.0,2.0
+Mercedes-Benz,Vito,111 CDI Tourer Pro,865335.0,
+Kia,Carnival,2.2CRDi EX+,904995.0,2.2
+Mercedes-Benz,Vito,114 CDI Mixto Pro Crewcab auto,908137.0,
+Opel,Zafira Life,2.0TD Elegance,946900.0,2.0
+Hyundai,Santa Fe,2.2D 4WD Elite,964900.0,2.2
+Mercedes-Benz,Vito,114 CDI Tourer Pro,993233.0,
+Volkswagen,Transporter,2.0BiTDI 146kW Kombi SWB Trendline Plus 4Motion,1024300.0,2.0
+Kia,Carnival,2.2CRDi SX Limited,1024995.0,2.2
+Volvo,V90 Cross,Country B5 AWD Essential,1048700.0,
+Kia,Carnival,2.2CRDi SXL,1049995.0,2.2
+Mercedes-Benz,Vito,116 CDI Tourer Pro,1054209.0,
+Toyota,Quantum,2.8 LWB Bus 6-seater VX Premium,1107400.0,2.8
+Toyota,Quantum,2.8 LWB Bus 9-seater VX Premium,1111400.0,2.8
+Volvo,V90 Cross,Country B5 AWD Plus,1128700.0,
+Hyundai,Staria,2.2D Luxury,1160900.0,2.2
+Volvo,V90 Cross,Country B5 AWD Ultimate,1165700.0,
+Mercedes-Benz,Vito,116 CDI Tourer Select,1243411.0,
+Mercedes-Benz,V220d,,1285562.0,
+Mercedes-Benz,Vito,119 CDI Tourer Select,1287532.0,
+Volkswagen,Caravelle,2.0BiTDI 146kW Highline 4Motion,1353700.0,2.0
+Mercedes-Benz,V220d AMG,Line,1366205.0,
+Mercedes-Benz,V250d,,1373835.0,
+Volkswagen,California,2.0BiTDI 146kW Coast 4Motion,1410700.0,2.0
+Audi,RS4 Avant,quattro,1448400.0,
+Mercedes-Benz,V250d AMG,Line,1454478.0,
+Mercedes-Benz,V220d,Avantgarde,1653741.0,
+Mercedes-Benz,V250d,Avantgarde,1707228.0,
+Mercedes-Benz,V220d,AMG Line,1717109.0,
+Mercedes-Benz,V300d,Avantgarde,1754412.0,
+Mercedes-Benz,V250d,AMG Line,1770596.0,
+Mercedes-Benz,V300d,AMG Line,1843022.0,
+Mercedes-Benz,V300d Exclusive,,2042471.0,
+Audi,RS6 Avant,quattro,2254600.0,
+Porsche,Taycan,4S Cross Turismo,2549000.0,
+Porsche,Taycan turbo,Cross Turismo,3359000.0,
+Mahindra,KUV100 Nxt,1.2 G80 K2+,172999.0,1.2
+Mahindra,KUV100 Nxt,1.2 G80 K2+ #DARE,192999.0,1.2
+Suzuki,Ignis,1.2 GL,208900.0,1.2
+Mahindra,KUV100 Nxt,1.2 G80 K6+,217999.0,1.2
+BAIC,X25,1.5 Comfort,219990.0,1.5
+Renault,Kiger,1.0 Life,219999.0,1.0
+Mahindra,KUV100 Nxt,1.2 G80 K6+ #DARE,227999.0,1.2
+BAIC,X25,1.5 Fashion,229990.0,1.5
+Renault,Kiger,1.0 Zen,234999.0,1.0
+Suzuki,Ignis,1.2 GLX,241900.0,1.2
+Renault,Kiger,1.0 Zen auto,244999.0,1.0
+Mahindra,KUV100 Nxt,1.2 G80 K8,249999.0,1.2
+Mahindra,KUV100 Nxt,1.2TD D75 K6+,254999.0,1.2
+Mahindra,XUV300,1.2T W4,259999.0,1.2
+Suzuki,Vitara Brezza,1.5 GL,262900.0,1.5
+Mahindra,XUV300,1.2T W4 SE,268999.0,1.2
+Toyota,Urban Cruiser,1.5 Xi,283200.0,1.5
+Suzuki,Vitara Brezza,1.5 GL auto,283900.0,1.5
+Mahindra,KUV100 Nxt,1.2TD D75 K8,283999.0,1.2
+Mahindra,XUV300,1.2T W6,284999.0,1.2
+Renault,Kiger,1.0 Turbo Zen,289999.0,1.0
+Nissan,Magnite,1.0 Turbo Acenta,296500.0,1.0
+Toyota,Urban Cruiser,1.5 XS,303100.0,1.5
+Nissan,Magnite,1.0 Turbo Acenta Red Edition,304300.0,1.0
+Mahindra,XUV300,1.5TD W6,306999.0,1.5
+Suzuki,Vitara Brezza,1.5 GLX,308900.0,1.5
+Ford,EcoSport,1.5 Ambiente,311400.0,1.5
+Honda,WR-V,1.2 Comfort,315200.0,1.2
+Kia,Sonet,1.5 LX,316995.0,1.5
+Ford,EcoSport,1.5TDCi Ambiente,322500.0,1.5
+Nissan,Magnite,1.0 Turbo Acenta auto,324000.0,1.0
+Nissan,Magnite,1.0 Turbo Acenta Plus,326000.0,1.0
+Toyota,Urban Cruiser,1.5 XS auto,327100.0,1.5
+Renault,Kiger,1.0 Turbo Intens auto,329999.0,1.0
+Nissan,Magnite,1.0 Turbo Acenta Red Edition auto,331800.0,1.0
+Toyota,Urban Cruiser,1.5 XR,333300.0,1.5
+Suzuki,Jimny,1.5 GA AllGrip,334900.0,1.5
+Kia,Sonet,1.5 EX,336995.0,1.5
+Kia,Sonet,1.5 LX auto,337995.0,1.5
+Haval,Jolion,1.5T City,342950.0,1.5
+Mahindra,XUV300,1.2T W8,343999.0,1.2
+Ford,EcoSport,1.5 Ambiente Black,346710.0,1.5
+Chery,Tiggo,4 Pro 1.5T Elite,346900.0,1.5
+Nissan,Magnite,1.0 Turbo Acenta Plus auto,353500.0,1.0
+Honda,WR-V,1.2 Elegance,355900.0,1.2
+Toyota,Urban Cruiser,1.5 XR auto,357100.0,1.5
+Kia,Sonet,1.5 EX auto,357995.0,1.5
+Renault,Duster,1.5dCi Zen,357999.0,1.5
+Ford,EcoSport,1.0T Trend auto,375300.0,1.0
+Suzuki,Jimny,1.5 GLX AllGrip,377900.0,1.5
+Haval,Jolion,1.5T Luxury,377950.0,1.5
+Toyota,Hilux,2.4GD Single Cab S,378900.0,2.4
+Kia,Sonet,1.0T EX,379995.0,1.0
+Toyota,Corolla Cross,1.8 Xi,381200.0,1.8
+Haval,Jolion,1.5T Premium,384950.0,1.5
+Mitsubishi,ASX,2.0 ES,384990.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab S6,389999.0,2.2
+Mazda,CX-3,2.0 Active,390500.0,2.0
+Volkswagen,T-Cross,1.0TSI 70kW Comfortline,393400.0,1.0
+Ford,EcoSport,1.0T Active,393700.0,1.0
+Hyundai,Venue,1.0T Fluid,397900.0,1.0
+Suzuki,Jimny,1.5 GLX AllGrip auto,399900.0,1.5
+Ford,EcoSport,1.0T Titanium,401600.0,1.0
+Renault,Duster,1.5dCi Zen auto,401999.0,1.5
+Hyundai,Venue,1.0T Motion auto,402900.0,1.0
+Mitsubishi,ASX,2.0 ES auto,404990.0,2.0
+Kia,Sonet,1.0T EX+,409995.0,1.0
+Renault,Duster,1.5dCi Intens,409999.0,1.5
+Mazda,CX-3,2.0 Active auto,412700.0,2.0
+Toyota,Corolla Cross,1.8 XS,414300.0,1.8
+Haval,Jolion,1.5T Luxury auto,414950.0,1.5
+Mahindra,Scorpio,2.2CRDe 4WD S11,414999.0,2.2
+Ford,EcoSport,1.0T Titanium auto,416900.0,1.0
+BAIC,Beijing,X55 1.5T Elite,424900.0,1.5
+Mazda,CX-3,2.0 Dynamic,427700.0,2.0
+Kia,Seltos,1.6 EX,427995.0,1.6
+Citroën,C3 Aircross,1.2T Feel,429900.0,1.2
+Honda,BR-V,1.5 Comfort auto,434900.0,1.5
+Mitsubishi,ASX,2.0 LS,434990.0,2.0
+Chery,Tiggo,7 Pro 1.5T Distinction,437900.0,1.5
+Volkswagen,T-Cross,1.0TSI 85kW Comfortline,438700.0,1.0
+Suzuki,Vitara,1.6 GLX AllGrip,438900.0,1.6
+Toyota,Corolla Cross,1.8 Hybrid XS,442400.0,1.8
+Mazda,CX-3,2.0 Dynamic auto,443700.0,2.0
+Suzuki,Vitara,1.4T GLX,445900.0,1.4
+Kia,Seltos,1.6 EX auto,445995.0,1.6
+Haval,Jolion,1.5T Super Luxury,446950.0,1.5
+Hyundai,Creta,1.5 Premium auto,448900.0,1.5
+JAC,T8,2.0CTi Double Cab Lux,449900.0,2.0
+Toyota,Corolla Cross,1.8 XR,451300.0,1.8
+Volkswagen,Taigo,1.0TSI Life,453800.0,1.0
+Peugeot,2008,1.2T Active,454900.0,1.2
+Mitsubishi,ASX,2.0 LS auto,454990.0,2.0
+Kia,Seltos,1.5CRDi EX,457995.0,1.5
+Toyota,C-HR,1.2T,459500.0,1.2
+Mahindra,Scorpio,2.2CRDe 4WD S11 Adventure,461999.0,2.2
+Hyundai,Venue,1.0T N Line,463900.0,1.0
+Kia,Seltos,1.6 EX+,463995.0,1.6
+Subaru,XV,2.0i,464000.0,2.0
+Mitsubishi,ASX,2.0 Aspire,464995.0,2.0
+Mahindra,Scorpio-N,2.2D Z4,465000.0,2.2
+Toyota,Corolla Cross,1.8 GR-Sport,466800.0,1.8
+Honda,HR-V,1.5 Comfort,469000.0,1.5
+Chery,Tiggo,7 Pro 1.5T Executive,472900.0,1.5
+Mahindra,XUV700,2.0T AX5,474999.0,2.0
+Kia,Seltos,1.5CRDi EX auto,475995.0,1.5
+Volkswagen,Transporter,2.0TDI 81kW Single Cab,477900.0,2.0
+Volkswagen,T-Cross,1.0TSI 85kW Highline,478000.0,1.0
+Opel,Crossland,1.2T GS Line,478900.0,1.2
+Haval,H6,2.0GDIT Premium,479950.0,2.0
+Mitsubishi,Eclipse Cross,2.0 GLS,479990.0,2.0
+Toyota,Corolla Cross,1.8 Hybrid XR,480200.0,1.8
+Toyota,C-HR,1.2T Plus,484000.0,1.2
+Kia,Seltos,1.5CRDi EX+,493995.0,1.5
+Toyota,Corolla Cross,1.8 Hybrid GR-Sport,495200.0,1.8
+Isuzu,D-Max Gen,6 250 Double Cab Hi-Ride,496900.0,
+Mazda,CX-30,2.0 Active,497700.0,2.0
+Toyota,C-HR,1.2T Plus auto,498500.0,1.2
+Mahindra,Scorpio-N,2.2D Z8,510000.0,2.2
+Mazda,CX-3,2.0 Individual,511600.0,2.0
+Volkswagen,Taigo,1.0TSI R-Line,513100.0,1.0
+Mazda,CX-5,2.0 Active,515600.0,2.0
+Volkswagen,T-Cross,1.5TSI 110kW R-Line,518800.0,1.5
+Haval,H6,2.0GDIT Luxury,518950.0,2.0
+Mitsubishi,Eclipse Cross,1.5T GLS,519990.0,1.5
+Nissan,X-Trail,2.0 Visia,520900.0,2.0
+Kia,Seltos,1.4T-GDI GT Line,523995.0,1.4
+Mahindra,XUV700,2.0T AX7,524999.0,2.0
+Mazda,CX-30,2.0 Dynamic,529600.0,2.0
+Ford,Ranger,2.0 SiT Double Cab XL,529900.0,2.0
+Mazda,CX-5,2.0 Active auto,530900.0,2.0
+Subaru,XV,2.0i-S ES,531000.0,2.0
+Mazda,CX-3,2.0 Hikari,532600.0,2.0
+Proton,X50,1.5T Executive,535900.0,1.5
+Opel,Mokka,1.2T GS Line,539900.0,1.2
+Mazda,CX-30,2.0 Carbon Edition,540200.0,2.0
+Hyundai,Grand Creta,1.5D Executive,540900.0,1.5
+Peugeot,2008,1.2T GT,544900.0,1.2
+Jeep,Renegade,1.4T Limited,549900.0,1.4
+Haval,H6,2.0GDIT 4WD Luxury,549950.0,2.0
+Hyundai,Tucson,2.0 Premium,550900.0,2.0
+Kia,Sportage,1.6T-GDi LX,554995.0,1.6
+Mahindra,XUV700,2.0T AX7 L,559999.0,2.0
+Mitsubishi,Eclipse Cross,1.5T GLS Exceed,560000.0,1.5
+Fiat,500X,1.4T Sport,560900.0,1.4
+Opel,Grandland X,1.6T,562900.0,1.6
+BAIC,B40 Plus,2.0TDi,564500.0,2.0
+Mazda,CX-5,2.0 Dynamic,565100.0,2.0
+Nissan,Qashqai,1.3T Visia,568200.0,1.3
+Hyundai,Grand Creta,2.0 Elite,571900.0,2.0
+Nissan,X-Trail,2.5 4x4 Acenta,572000.0,2.5
+Volkswagen,T-Roc,1.4TSI 110kW Design,572300.0,1.4
+Mazda,CX-30,2.0 Individual,573100.0,2.0
+Chery,Tiggo,8 Pro 1.6TGDI 290T Executive,574900.0,1.6
+Toyota,C-HR,1.2T Luxury,576900.0,1.2
+Proton,X70,1.5T Executive,579900.0,1.5
+Haval,Jolion,1.5 HEV Super Luxury,579950.0,1.5
+Fiat,500X,1.4T Sport EST,580900.0,1.4
+Renault,Koleos,2.5 Dynamique,584999.0,2.5
+Honda,CR-V,2.0 Comfort,586600.0,2.0
+Audi,Q2,35TFSI,587600.0,
+Volkswagen,Tiguan,1.4TSI 110kW,589000.0,1.4
+Peugeot,3008,1.6T Active,589900.0,1.6
+GWM,P-Series,2.0TD Double Cab LT,589950.0,2.0
+Mitsubishi,Outlander,2.4 GLS,589990.0,2.4
+Mahindra,Scorpio-N,2.2D Z8L 4XPlor,590000.0,2.2
+Hyundai,Grand Creta,1.5D Elite,592900.0,1.5
+BAIC,B40 Plus,2.0TDi City Hunter,594500.0,2.0
+BAIC,B40 Plus,2.0T,599500.0,2.0
+Nissan,Navara,2.5DDTi Double Cab SE 4x4,601900.0,2.5
+Kia,Sportage,1.6T-GDi EX,608995.0,1.6
+Subaru,Forester,2.0i-S ES,609000.0,2.0
+Audi,Q2,35TFSI S line,617800.0,
+Opel,Grandland X,1.6T Edition,619900.0,1.6
+Volkswagen,Tiguan Allspace,1.4TSI 110kW,629200.0,1.4
+Proton,X70,1.5T Executive AWD,629900.0,1.5
+Haval,H6 GT,2.0GDIT 4WD Super Luxury,629950.0,2.0
+Citroën,C5 Aircross,1.6T Feel,633900.0,1.6
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S11 Karoo Storm,634999.0,2.2
+Volkswagen,T-Roc,2.0TSI 140kW 4Motion Design,636700.0,2.0
+Nissan,Qashqai,1.3T Acenta,639300.0,1.3
+Proton,X70,1.5T Premium X,639900.0,1.5
+Mazda,CX-5,2.0 Carbon Edition,640600.0,2.0
+MINI,Cooper Countryman,,644940.0,
+Subaru,Forester,2.5i-Sport ES,646000.0,2.5
+BAIC,B40 Plus,2.0T City Hunter,649500.0,2.0
+Honda,CR-V,2.0 Elegance,651700.0,2.0
+Toyota,Fortuner,2.4GD-6,653450.0,2.4
+Volkswagen,Tiguan,1.4TSI 110kW Life,658200.0,1.4
+Toyota,RAV4,2.0 GX-R AWD,658500.0,2.0
+Nissan,X-Trail,1.6dCi 4x4 Tekna,660000.0,1.6
+Peugeot,3008,1.6T Allure,664900.0,1.6
+Kia,Sportage,1.6T-GDi GT Line,664995.0,1.6
+BAIC,B40 Plus,2.0T Champion,669500.0,2.0
+Hyundai,Tucson,2.0 Elite,669900.0,2.0
+Haval,H6,1.5T HEV Ultra Luxury,669950.0,1.5
+Volkswagen,T-Roc,2.0TSI 140kW 4Motion R-Line,670300.0,2.0
+Nissan,Qashqai,1.3T Acenta Plus,670600.0,1.3
+Toyota,RAV4,2.0 VX,671600.0,2.0
+Audi,Q3,35TFSI,674400.0,
+Nissan,X-Trail,2.5 4x4 Tekna,674900.0,2.5
+Toyota,Fortuner,2.4GD-6 auto,677450.0,2.4
+Volvo,XC40,B3 Essential,677700.0,
+Citroën,C5 Aircross,1.6T Shine,683900.0,1.6
+Kia,Sportage,1.6T-GDi GT Line Plus,692995.0,1.6
+Toyota,RAV4,2.5 Hybrid GX-R E-Four,698700.0,2.5
+Opel,Grandland X,1.6T Elegance,701900.0,1.6
+Subaru,Forester,2.5i-S ES,708000.0,2.5
+Audi,Q3,35TFSI S line,708400.0,
+Toyota,Fortuner,2.4GD-6 4x4,709750.0,2.4
+Volkswagen,Tiguan Allspace,1.4TSI 110kW Life,712800.0,1.4
+Volvo,XC40,B4 Essential,718900.0,
+Volkswagen,Tiguan,1.4TSI 110kW R-Line,722300.0,1.4
+Mitsubishi,Pajero Sport,2.4DI-D,724990.0,2.4
+Isuzu,mu-X,3.0TD LS,725500.0,3.0
+Volvo,XC40,B3 Plus Dark,728400.0,
+Mazda,CX-5,2.5 AWD Individual,729500.0,2.5
+Audi,Q3 Sportback,35TFSI S line,734000.0,
+Hyundai,Tucson,2.0D Elite,734900.0,2.0
+Volvo,XC40,B3 Plus Bright,736700.0,
+Honda,CR-V,1.5T Executive,737700.0,1.5
+Peugeot,3008,1.6T GT,739900.0,1.6
+Audi,Q3,40TFSI quattro Advanced,741900.0,
+Mitsubishi,Pajero Sport,2.4DI-D Aspire,744990.0,2.4
+BMW,X2,sDrive18i M Sport,747286.0,
+MINI,Cooper S,Countryman,748981.0,
+Kia,Sportage,1.6T-GDi GT Line S,749995.0,1.6
+BMW,X1,sDrive18i xLine,753045.0,
+Audi,Q3,40TFSI quattro S line,755900.0,
+Toyota,RAV4,2.5 VX AWD,763100.0,2.5
+MINI,Cooper S,Countryman Untamed Edition,764581.0,
+Mazda,CX-5,2.2DE AWD Akera,765300.0,2.2
+Volkswagen,Tiguan Allspace,1.4TSI 110kW R-Line,767400.0,1.4
+Volvo,XC40,B4 Plus Dark,769700.0,
+Volkswagen,Tiguan Allspace,2.0TSI 132kW 4Motion Style,774100.0,2.0
+Mitsubishi,Pajero Sport,2.4DI-D 4x4,774990.0,2.4
+Volvo,XC40,B4 Plus Bright,777900.0,
+Audi,Q3 Sportback,40TFSI quattro S line,781500.0,
+Peugeot,5008,1.6T GT,782900.0,1.6
+Toyota,RAV4,2.5 Hybrid VX E-Four,785400.0,2.5
+BMW,X2,sDrive20i M Sport,786527.0,
+BMW,X1,sDrive18d xLine,790617.0,
+BMW,X1,sDrive18i M Sport,793045.0,
+Toyota,Fortuner,2.8GD-6,794600.0,2.8
+Mitsubishi,Pajero Sport,2.4DI-D 4x4 Aspire,794990.0,2.4
+Isuzu,mu-X,3.0TD LSE,795000.0,3.0
+Volkswagen,Tiguan,2.0TSI 162kW 4Motion R-Line,795900.0,2.0
+Alfa,Romeo Tonale,1.5T Hybrid Speciale,799900.0,1.5
+Isuzu,mu-X,3.0TD LS 4x4,806400.0,3.0
+Lexus,UX,250h EX,808600.0,
+Mitsubishi,Pajero Sport,2.4DI-D 4x4 Exceed,809990.0,2.4
+Toyota,FJ Cruiser,,813000.0,
+Toyota,Land Cruiser,78 4.2D Wagon,818300.0,4.2
+Honda,CR-V,1.5T Exclusive AWD,818700.0,1.5
+Alfa,Romeo Tonale,1.5T Hybrid Veloce,819900.0,1.5
+BMW,X1,sDrive18d M Sport,830617.0,
+Kia,Sorento,2.2CRDi EX+,834995.0,2.2
+Toyota,Fortuner,2.8GD-6 VX,837800.0,2.8
+Volkswagen,Tiguan Allspace,2.0TSI 162kW 4Motion R-Line,838300.0,2.0
+Volvo,XC40,B5 AWD Plus Dark,840000.0,
+Mercedes-Benz,GLA200,Progressive,847226.0,
+Volvo,XC40,B5 AWD Plus Bright,847400.0,
+Hyundai,Santa Fe,2.2D Executive,856900.0,2.2
+Toyota,Fortuner,2.8GD-6 4x4,873500.0,2.8
+Kia,Sorento,2.2CRDi AWD EX+,874995.0,2.2
+Mercedes-Benz,GLA200 AMG,Line,876226.0,
+Mercedes-Benz,GLA200d,Progressive,883568.0,
+Lexus,UX,250h SE,891800.0,
+Isuzu,mu-X,3.0TD Onyx 4x4,895900.0,3.0
+Lexus,NX,250 AWD EX,912400.0,
+Mercedes-Benz,GLA200d AMG,Line,912568.0,
+Toyota,Fortuner,2.8GD-6 4x4 VX,915400.0,2.8
+Kia,Sorento,2.2CRDi AWD SX,939995.0,2.2
+Audi,Q5,40TDI quattro,944700.0,
+Lexus,UX,250h F Sport,947500.0,
+MINI,John Cooper,Works ALL4 Countryman,953739.0,
+BMW,X3,sDrive18d,957224.0,
+Volvo,XC60,B5 AWD Essential,957900.0,
+BMW,X2,M35i,961081.0,
+Toyota,Land Cruiser,76 4.5D-4D LX V8 Station Wagon,963400.0,4.5
+Ford,Everest,2.0 BiTurbo 4x4 Sport,965400.0,2.0
+Audi,Q5,40TDI quattro S line,989700.0,
+BMW,X3,sDrive18d M Sport,997224.0,
+Mercedes-Benz,GLB220d,4Matic Progressive,998388.0,
+Volvo,XC60,B5 AWD Plus Dark,999700.0,
+Jeep,Wrangler Unlimited,3.6 Sport,999900.0,3.6
+Mercedes-Benz,GLB250,Progressive,1012287.0,
+Volkswagen,Tiguan R,R,1014900.0,
+BMW,X3,sDrive20i,1015778.0,
+Kia,Sorento,2.2CRDi AWD SXL,1019995.0,2.2
+Volvo,XC60,B5 AWD Plus Bright,1025700.0,
+Mercedes-Benz,GLB220d,4Matic AMG Line,1036388.0,
+Audi,Q5 Sportback,40TDI quattro Advanced,1038700.0,
+Audi,Q5,45TFSI quattro S line,1048500.0,
+Jeep,Wrangler,3.6 Rubicon,1049900.0,3.6
+Mercedes-Benz,GLB250 AMG,Line,1050287.0,
+BMW,X3,sDrive20i M Sport,1055778.0,
+Volvo,XC60,B6 AWD Plus Dark,1063800.0,
+BMW,X3,xDrive20d,1065394.0,
+Hyundai,Palisade,2.2D 4WD Elite,1066900.0,2.2
+Volvo,XC40,P6 Recharge Plus,1075000.0,
+Audi,Q5 Sportback,40TDI quattro S line,1077700.0,
+Toyota,Land Cruiser,Prado 2.8GD TX,1079700.0,2.8
+Volvo,XC60,B6 AWD Plus Bright,1089800.0,
+Jeep,Wrangler Unlimited,3.6 Rubicon,1099900.0,3.6
+Lexus,NX,350h AWD SE,1104100.0,
+BMW,X3,xDrive20d M Sport,1105394.0,
+Land Rover,Discovery Sport,D200 Urban Edition,1108500.0,
+Porsche,Macan,,1112000.0,
+Ford,Everest,3.0 V6 4WD Platinum,1113100.0,3.0
+Land Rover,Discovery Sport,P250 Urban Edition,1113600.0,
+Mercedes-Benz,GLC220d,4Matic,1124312.0,
+Land Rover,Discovery Sport,D200 R-Dynamic SE,1125100.0,
+Land Rover,Range Rover Evoque,D200 Bronze Collection,1126400.0,
+Land Rover,Discovery Sport,P250 R-Dynamic SE,1130200.0,
+Lexus,NX,350h AWD F Sport,1130400.0,
+Land Rover,Range Rover Evoque,P250 Bronze Collection,1131800.0,
+Audi,Q5 Sportback,45TFSI quattro S line,1136500.0,
+Lexus,NX,350 AWD F Sport,1140900.0,
+Land Rover,Range Rover Evoque,D200 R-Dynamic SE,1143200.0,
+Land Rover,Range Rover Evoque,P250 R-Dynamic SE,1148600.0,
+BMW,X4,xDrive20d,1152894.0,
+Land Rover,Discovery Sport,D200 R-Dynamic HSE,1154500.0,
+Jaguar,E-Pace,D200 AWD R-Dynamic HSE,1155000.0,
+Mercedes-Benz,GLC220d Coupé,4Matic,1156053.0,
+Land Rover,Discovery Sport,P250 R-Dynamic HSE,1159600.0,
+Mercedes-Benz,EQA,250 Progressive,1174000.0,
+Toyota,Land Cruiser,Prado 4.0 VX,1183600.0,4.0
+BMW,X4,xDrive20d M Sport,1192894.0,
+Audi,RSQ3 quattro,,1195900.0,
+Land Rover,Range Rover Evoque,D200 R-Dynamic HSE,1196500.0,
+Mercedes-Benz,GLC300d Coupé,4Matic,1200313.0,
+Land Rover,Range Rover Evoque,P250 R-Dynamic HSE,1201900.0,
+Alfa,Romeo Stelvio,2.0T Veloce Q4,1204900.0,2.0
+Lexus,RX,350 EX,1206700.0,
+Mercedes-Benz,GLC220d,4Matic AMG Line,1206905.0,
+Mercedes-Benz,GLC220d Coupé,4Matic AMG Line,1209953.0,
+Toyota,Land Cruiser,Prado 2.8GD VX,1220000.0,2.8
+Mercedes-Benz,EQA,250 AMG Line,1227000.0,
+Audi,RSQ3 Sportback,quattro,1232300.0,
+Toyota,Land Cruiser,Prado 4.0 VX-L,1233800.0,4.0
+Mercedes-Benz,GLC300 Coupé,4Matic,1239035.0,
+Mercedes-Benz,GLC300,4Matic,1243323.0,
+Mercedes-Benz,GLC300d Coupé,4Matic AMG Line,1254213.0,
+BMW,X3,xDrive30d,1256840.0,
+Volvo,XC40,P8 Recharge Twin AWD Ultimate,1260000.0,
+Land Rover,Range Rover Evoque,D200 Autobiography,1268700.0,
+Toyota,Land Cruiser,Prado 2.8GD VX-L,1271900.0,2.8
+Land Rover,Range Rover Evoque,P250 Autobiography,1274100.0,
+Audi,SQ5 TFSI,quattro,1278500.0,
+Volvo,XC60,T8 Recharge AWD Plus Dark,1284000.0,
+Mercedes-Benz,GLC300 Coupé,4Matic AMG Line,1292935.0,
+Volvo,C40,P8 Recharge Twin AWD Ultimate,1295000.0,
+Lexus,RX,350L EX,1295900.0,
+BMW,X3,xDrive30d M Sport,1296840.0,
+BMW,iX3,M Sport,1306400.0,
+Volvo,XC60,T8 Recharge AWD Plus Bright,1310000.0,
+Land Rover,Defender,90 D240 SE,1311500.0,
+Volvo,XC90,B5 AWD Essential,1312500.0,
+Mercedes-Benz,GLC300d,4Matic,1323894.0,
+Mercedes-Benz,GLC300,4Matic AMG Line,1325916.0,
+Jeep,Gladiator,3.6 Rubicon Double Cab,1329900.0,3.6
+Volkswagen,Touareg,V6 TDI Luxury,1331800.0,
+Porsche,Macan S,,1337000.0,
+Land Rover,Defender,110 D240 SE,1345500.0,
+Lexus,RX,350 F Sport,1349500.0,
+Jaguar,F-Pace,D200 AWD R-Dynamic SE,1357000.0,
+Toyota,Land Cruiser,300 3.3D GX-R,1375100.0,3.3
+Mercedes-Benz,EQB,350 4Matic Progressive,1379000.0,
+Audi,SQ5 Sportback,TFSI quattro,1405500.0,
+Mercedes-Benz,GLC300d,4Matic AMG Line,1406487.0,
+Volvo,XC90,B5 AWD Plus Dark,1408500.0,
+Jaguar,F-Pace,D300 AWD R-Dynamic SE,1416000.0,
+Jaguar,F-Pace,D200 AWD R-Dynamic HSE,1417000.0,
+Mercedes-Benz,EQB,350 4Matic AMG Line,1432000.0,
+Land Rover,Defender,90 D240 XS Edition,1439500.0,
+Land Rover,Defender,110 D300 SE,1443600.0,
+Land Rover,Defender,110 D240 X-Dynamic SE,1449500.0,
+Volvo,XC90,B6 AWD Plus Dark,1463900.0,
+BMW,X3,M40i,1468146.0,
+Land Rover,Defender,110 D240 XS Edition,1470500.0,
+Land Rover,Defender,90 D240 X-Dynamic HSE,1474500.0,
+Jaguar,F-Pace,D300 AWD R-Dynamic HSE,1477000.0,
+Jaguar,E-Pace,P300e AWD R-Dynamic SE,1478000.0,
+Land Rover,Range Rover Evoque,P300e R-Dynamic SE,1483600.0,
+Land Rover,Defender,90 D300 X-Dynamic SE,1494600.0,
+Land Rover,Discovery Sport,P300e R-Dynamic SE,1494700.0,
+Land Rover,Defender,110 D240 X-Dynamic HSE,1511500.0,
+Ineos,Grenadier,3.0TD,1513100.0,3.0
+Land Rover,Range Rover Velar,D200 Dynamic SE,1519000.0,
+Audi,Q7,45TDI quattro,1520000.0,
+Mercedes-Benz,EQB,350 4Matic Edition 1,1523400.0,
+Jeep,Grand Cherokee,L 3.6 4x4 Overland,1529900.0,3.6
+Land Rover,Discovery Sport,P300e R-Dynamic HSE,1534200.0,
+Land Rover,Defender,110 D300 X-Dynamic SE,1535600.0,
+Jaguar,E-Pace,P300e AWD R-Dynamic HSE,1541000.0,
+Land Rover,Range Rover Evoque,P300e R-Dynamic HSE,1542000.0,
+Porsche,Cayenne,,1545000.0,
+BMW,X4,M40i,1558146.0,
+Land Rover,Defender,90 D300 X-Dynamic HSE,1561600.0,
+Audi,Q7,45TDI quattro S line,1565000.0,
+Lexus,RX,450h SE,1567800.0,
+Land Rover,Defender,110 D300 X-Dynamic HSE,1598600.0,
+BMW,X5,xDrive30d,1603510.0,
+Land Rover,Defender,90 P400 X-Dynamic HSE,1607700.0,
+Mercedes-AMG,GLC43 Coupé,4Matic,1608193.0,
+Porsche,Macan GTS,,1617000.0,
+Land Rover,Discovery,D300 S,1617900.0,
+Land Rover,Discovery,P360 S,1618700.0,
+Volkswagen,Touareg,V6 TDI Executive R-Line,1622800.0,
+Mercedes-Benz,GLE300d,4Matic,1623789.0,
+Porsche,Cayenne,Coupé nan,1627000.0,
+Ineos,Grenadier,3.0TD Fieldmaster Edition,1630560.0,3.0
+BMW,X5,xDrive45e xLine,1638000.0,
+Land Rover,Defender,110 P400 X-Dynamic HSE,1642700.0,
+Maserati,Grecale,GT,1650000.0,
+BMW,X5,xDrive30d M Sport,1650510.0,
+Land Rover,Range Rover Velar,D200 Dynamic HSE,1653000.0,
+BMW,X5,xDrive45e M Sport,1659400.0,
+Volvo,XC90,T8 Recharge AWD Plus Dark,1663000.0,
+Audi,Q8,45TDI quattro,1672700.0,
+Mercedes-Benz,EQC,400 4Matic AMG Line,1679000.0,
+Nissan,Patrol,5.6 V8 LE 4WD,1683900.0,5.6
+Land Rover,Range Rover Velar,D300 Dynamic SE,1690000.0,
+Mercedes-Benz,GLE300d,4Matic AMG Line,1699589.0,
+Mercedes-Benz,GLE450,4Matic,1701520.0,
+BMW,X6,xDrive30d,1704269.0,
+Porsche,Cayenne,S nan,1709000.0,
+Audi,Q8,55TFSI quattro,1714900.0,
+Jeep,Grand Cherokee,L 3.6 4x4 Summit Reserve,1724900.0,3.6
+BMW,X6,xDrive40i,1730850.0,
+BMW,iX,xDrive40,1735000.0,
+Land Rover,Discovery,D300 R-Dynamic SE,1739900.0,
+Porsche,Cayenne,Platinum Edition,1740000.0,
+Land Rover,Discovery,P360 R-Dynamic SE,1740700.0,
+Audi,e-tron,55 quattro,1745000.0,
+BMW,X6,xDrive30d M Sport,1751269.0,
+Land Rover,Defender,130 D300 X-Dynamic HSE,1754600.0,
+Land Rover,Defender,130 D300 First Edition,1758600.0,
+Porsche,Cayenne,Coupé Platinum Edition,1760000.0,
+Land Rover,Defender,90 D300 X,1761600.0,
+Mercedes-Benz,GLE400d,4Matic,1761993.0,
+Land Rover,Defender,90 D300 75 Years / 75th Limited Edition,1762600.0,
+Mercedes-Benz,GLE450,4Matic AMG Line,1777320.0,
+BMW,X6,xDrive40i M Sport,1777850.0,
+Land Rover,Range Rover Velar,P340 Dynamic HSE,1788000.0,
+Porsche,Cayenne,S Coupé,1790000.0,
+Land Rover,Defender,130 P400 X-Dynamic HSE,1798500.0,
+Land Rover,Defender,90 P400 X,1799700.0,
+Land Rover,Defender,110 D300 75 Years / 75th Limited Edition,1801600.0,
+Land Rover,Defender,130 P400 First Edition,1803500.0,
+Land Rover,Range Rover Velar,D300 Dynamic HSE,1809000.0,
+Land Rover,Defender,110 P400e X-Dynamic SE,1811300.0,
+Land Rover,Defender,90 P400 75 Years / 75th Limited Edition,1811700.0,
+Jaguar,F-Pace,P400e AWD R-Dynamic SE,1815000.0,
+Land Rover,Defender,110 D300 X,1826600.0,
+Mercedes-Benz,GLE400d,4Matic AMG Line,1837793.0,
+Land Rover,Defender,110 P400 75 Years / 75th Limited Edition,1845700.0,
+Porsche,Cayenne,GTS nan,1851000.0,
+Land Rover,Discovery,D300 R-Dynamic HSE,1860900.0,
+Land Rover,Discovery,P360 R-Dynamic HSE,1861700.0,
+Jaguar,F-Pace,P400e AWD R-Dynamic HSE,1869000.0,
+Land Rover,Defender,110 P400e X-Dynamic HSE,1874300.0,
+Land Rover,Defender,110 P400 X,1875700.0,
+Toyota,Land Cruiser,300 3.3D ZX,1892000.0,3.3
+Land Rover,Range Rover Velar,P400e Dynamic SE,1905000.0,
+Porsche,Cayenne,S Coupé Platinum Edition,1912000.0,
+Land Rover,Discovery,D300 Metropolitan Edition,1916900.0,
+Land Rover,Discovery,P360 Metropolitan Edition,1917700.0,
+Porsche,Cayenne,GTS Coupé,1922000.0,
+Land Rover,Defender,130 D300 X,1924600.0,
+Toyota,Land Cruiser,300 3.5T ZX,1925800.0,3.5
+Alfa,Romeo Stelvio,Quadrifoglio Q4,1936900.0,
+Toyota,Land Cruiser,300 3.3D GR-Sport,1941700.0,3.3
+Porsche,Cayenne,e-hybrid nan,1949000.0,
+Land Rover,Defender,110 P400e X,1949300.0,
+Maserati,Grecale,Modena,1950000.0,
+BMW,X7,xDrive40d Design Pure Excellence,1962457.0,
+Land Rover,Defender,130 P400 X,1974500.0,
+Toyota,Land Cruiser,300 3.5T GR-Sport,1974900.0,3.5
+BMW,X5,M50d,1984573.0,
+Jaguar,F-Pace SVR,,1995000.0,
+BMW,X5,M50i,1995502.0,
+Land Rover,Range Rover Velar,P400e Dynamic HSE,2008000.0,
+Land Rover,Range Rover Sport,D350 Dynamic S,2020100.0,
+Land Rover,Range Rover Sport,P400 Dynamic S,2023600.0,
+BMW,X7,xDrive40d M Sport,2037457.0,
+Mercedes-Benz,GLS400d,4Matic,2041243.0,
+Audi,e-tron,55 quattro S line,2045000.0,
+Mercedes-Benz,GLE400d Coupé,4Matic AMG Line,2064107.0,
+BMW,X3,M competition,2072618.0,
+Land Rover,Range Rover Sport,D350 Dynamic SE,2081000.0,
+Land Rover,Range Rover Sport,P400 Dynamic SE,2084500.0,
+Porsche,Cayenne,e-hybrid Platinum Edition,2089000.0,
+BMW,X6,M50d,2104573.0,
+Audi,e-tron Sportback,55 quattro S line,2115000.0,
+BMW,X6,M50i,2115502.0,
+BMW,X4,M competition,2162618.0,
+Mercedes-Benz,GLS400d,4Matic AMG Line,2167343.0,
+Maserati,Levante,GT,2175000.0,
+Mercedes-AMG,GLE53,4Matic+,2180414.0,
+Land Rover,Range Rover Sport,D350 Dynamic HSE,2208100.0,
+Mercedes-AMG,GLE53 Coupé,4Matic+,2218611.0,
+Jaguar,I-Pace,EV400 AWD R-Dynamic HSE,2249000.0,
+BMW,iX,xDrive50,2270000.0,
+Land Rover,Range Rover Sport,D350 Autobiography,2271200.0,
+Mercedes-AMG,GLC63 S,Coupé 4Matic+,2290522.0,
+Land Rover,Range Rover Sport,D350 First Edition,2300600.0,
+BMW,X7,M60i xDrive,2316574.0,
+Mercedes-Benz,GLS580,4Matic,2338552.0,
+Lexus,LX,500d,2341000.0,
+Lexus,LX,500d F Sport,2350200.0,
+Lexus,LX,600 F Sport,2383800.0,
+Lexus,LX,600,2398000.0,
+Audi,e-tron S,Sportback quattro,2425000.0,
+Mercedes-Benz,GLS580,4Matic AMG Line,2435652.0,
+Land Rover,Defender,90 V8,2528600.0,
+Maserati,Grecale,Trofeo,2550000.0,
+Audi,RSQ8 quattro,,2625000.0,
+Land Rover,Defender,90 V8 Carpathian Edition,2628600.0,
+Porsche,Cayenne,turbo nan,2635000.0,
+Land Rover,Defender,110 V8,2648600.0,
+Porsche,Cayenne,turbo Coupé,2706000.0,
+Land Rover,Defender,110 V8 Carpathian Edition,2749600.0,
+Land Rover,Range Rover Sport,P510e Autobiography,2780600.0,
+Lexus,LX,600 VIP,2787500.0,
+Land Rover,Range Rover Sport,P510e First Edition,2810100.0,
+Land Rover,Range Rover,D350 SE,2848600.0,
+Maserati,Levante,Modena,2875000.0,
+Mercedes-Benz,G400d AMG,Line,2893333.0,
+BMW,X5,M competition,2928994.0,
+Land Rover,Range Rover,D350 HSE,2966600.0,
+Land Rover,Range Rover,D350 SE L 7 seats,2967600.0,
+BMW,X6,M competition,3028842.0,
+Land Rover,Range Rover Sport,P530 First Edition,3042500.0,
+Land Rover,Range Rover,P530 HSE,3148600.0,
+Porsche,Cayenne,turbo S e-hybrid,3277000.0,
+Mercedes-AMG,GLE63 S,4Matic+,3337137.0,
+Porsche,Cayenne,turbo S e-hybrid Coupé,3358000.0,
+BMW,XM,,3400000.0,
+Mercedes-AMG,GLS63,4Matic+,3401662.0,
+Mercedes-AMG,GLE63 S,Coupé 4Matic+,3405844.0,
+Land Rover,Range Rover,D350 Autobiography,3428600.0,
+Porsche,Cayenne,turbo GT,3500000.0,
+Land Rover,Range Rover,D350 Autobiography L,3513600.0,
+Land Rover,Range Rover,D350 Autobiography L 7 seats,3544600.0,
+Land Rover,Range Rover,D350 First Edition,3556600.0,
+Mercedes-AMG,G63,,3561868.0,
+Land Rover,Range Rover,P530 Autobiography,3610600.0,
+Land Rover,Range Rover,P510e Autobiography,3637300.0,
+Land Rover,Range Rover,D350 First Edition L,3640600.0,
+Mercedes-Maybach,GLS600,,3652592.0,
+Land Rover,Range Rover,P510e First Edition,3693300.0,
+Land Rover,Range Rover,P530 Autobiography L,3695600.0,
+Land Rover,Range Rover,P530 First Edition,3719600.0,
+Land Rover,Range Rover,P530 Autobiography L 7 seats,3726600.0,
+Land Rover,Range Rover,P530 First Edition L,3804600.0,
+Land Rover,Range Rover,D350 SV,3992600.0,
+Land Rover,Range Rover,P530 SV,4069600.0,
+Land Rover,Range Rover,P510e SV,4085300.0,
+Maserati,Levante,Trofeo,4250000.0,
+Lamborghini,Urus,S,4395000.0,
+Land Rover,Range Rover,D350 SV L,4426600.0,
+Bentley,Bentayga,V8,4480000.0,
+Land Rover,Range Rover,P530 SV L,4504600.0,
+Lamborghini,Urus,Performante,4795000.0,
+Bentley,Bentayga S,S,5310000.0,
+Bentley,Bentayga Azure,Azure,5390000.0,
+Bentley,Bentayga EWB,Azure,5770000.0,
+Bentley,Bentayga Speed,Speed,5820000.0,
+Nissan,NP200,1.6i safety pack,212500.0,1.6
+Nissan,NP200,1.6i safety pack (aircon),230900.0,1.6
+GWM,Steed,5 2.2MPi Single Cab Workhorse,233950.0,2.2
+Mahindra,Pik Up,2.2CRDe Single Cab S4,263999.0,2.2
+GWM,Steed,5 2.0VGT Single Cab S,299950.0,2.0
+Mahindra,Pik Up,2.2CRDe Single Cab 4x4 S4,302999.0,2.2
+GWM,Steed,5 2.0VGT Single Cab S 4WD,330950.0,2.0
+Mahindra,Pik Up,2.2CRDe Single Cab S6,331999.0,2.2
+Toyota,Hilux,2.0 Single Cab S,336100.0,2.0
+Isuzu,D-Max Gen,6 250c Single Cab,340000.0,
+Nissan,Navara,2.5 Single Cab XE,344900.0,2.5
+GWM,Steed,5 2.0VGT Single Cab SX 4WD,344950.0,2.0
+JAC,T6,2.0VVT Double Cab Lux,354900.0,2.0
+JAC,T6,2.8TDi Double Cab Lux,369900.0,2.8
+Mahindra,Pik Up,2.2CRDe Single Cab 4x4 S6,370999.0,2.2
+GWM,Steed,5 2.0VGT Double Cab SX,374950.0,2.0
+Nissan,Navara,2.5DDTi Single Cab XE,387200.0,2.5
+Isuzu,D-Max Gen,6 250 Single Cab Fleetside safety,394100.0,
+GWM,P-Series,2.0TD Single Cab SX,404950.0,2.0
+GWM,Steed,5 2.0VGT Double Cab SX 4WD,406950.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab S6 Karoo,410999.0,2.2
+Isuzu,D-Max,1.9TD Single Cab,411800.0,1.9
+Mitsubishi,Triton,2.4DI-D Single Cab GL,419995.0,2.4
+Mahindra,Pik Up,2.2CRDe Double Cab S10,420999.0,2.2
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S6,428999.0,2.2
+Isuzu,D-Max,1.9TD Single Cab L,431600.0,1.9
+Toyota,Hilux,2.7 Single Cab S,433100.0,2.7
+GWM,P-Series,2.0TD Single Cab DLX,434950.0,2.0
+GWM,P-Series,2.0TD Double Cab SX,435950.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab S10 Karoo,440999.0,2.2
+Mahindra,Pik Up,2.2CRDe Double Cab S6 Karoo auto,441999.0,2.2
+Isuzu,D-Max,1.9TD Extended cab,444500.0,1.9
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S6 Karoo,449999.0,2.2
+Isuzu,D-Max,1.9TD Single Cab L auto,450200.0,1.9
+Mahindra,Pik Up,2.2CRDe Double Cab S11,455999.0,2.2
+Isuzu,D-Max,1.9TD Extended cab L,459800.0,1.9
+GWM,P-Series,2.0TD Single Cab SX 4x4,459950.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S10,459999.0,2.2
+GWM,P-Series,2.0TD Double Cab DLX,463950.0,2.0
+Ford,Ranger,2.0 SiT Single Cab XL,464200.0,2.0
+Nissan,Navara,2.5DDTi Single Cab SE,466700.0,2.5
+Toyota,Hilux,2.4GD-6 Single Cab SR,469200.0,2.4
+Ford,Ranger,2.0 SiT Single Cab XL auto,477800.0,2.0
+GWM,P-Series,2.0TD Double Cab SX auto,477950.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S10 Karoo,479999.0,2.2
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S6 Karoo auto,480999.0,2.2
+Ford,Ranger,2.0 SiT SuperCab XL,485400.0,2.0
+Ford,Ranger,2.0 SiT Double Cab,486000.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab S11 Karoo,486999.0,2.2
+GWM,P-Series,2.0TD Double Cab SX 4x4,487950.0,2.0
+GWM,P-Series,2.0TD Single Cab DLX 4x4,489950.0,2.0
+Toyota,Hilux,2.7 Double Cab S,493600.0,2.7
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S11,494999.0,2.2
+Nissan,Navara,2.5DDTi Single Cab LE,504900.0,2.5
+GWM,P-Series,2.0TD Double Cab DLX auto,504950.0,2.0
+Mitsubishi,Triton,2.4DI-D Double Cab GL,504990.0,2.4
+Toyota,Hilux,2.4GD-6 Single Cab Raider,506900.0,2.4
+Isuzu,D-Max,1.9TD Double Cab L,511400.0,1.9
+Isuzu,D-Max,1.9TD Extended cab LS auto,513700.0,1.9
+Nissan,Navara,2.5DDTi Double Cab SE,514500.0,2.5
+GWM,P-Series,2.0TD Double Cab DLX 4x4,514950.0,2.0
+GWM,P-Series,2.0TD Double Cab LS,515950.0,2.0
+Isuzu,D-Max Gen,6 250 Double Cab Hi-Ride auto,517700.0,
+Toyota,Hilux,2.4GD-6 Xtra Cab Raider,521500.0,2.4
+Isuzu,D-Max,1.9TD Single Cab L 4x4,523900.0,1.9
+GWM,P-Series,2.0TD Double Cab SX 4x4 auto,524950.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S11 Karoo,525999.0,2.2
+Toyota,Hilux,2.4GD-6 Single Cab Raider auto,527600.0,2.4
+Ford,Ranger,2.0 SiT Double Cab 4x4,528600.0,2.0
+Isuzu,D-Max,1.9TD Double Cab L auto,530100.0,1.9
+Ford,Ranger,2.0 SiT Single Cab XL 4x4,531300.0,2.0
+Toyota,Hilux,2.4GD-6 Double Cab SR,534400.0,2.4
+Isuzu,D-Max,1.9TD Double Cab LS,538900.0,1.9
+Toyota,Hilux,2.4GD-6 Single Cab 4x4 SR,540000.0,2.4
+Nissan,Navara,2.5DDTi Single Cab SE 4x4,541200.0,2.5
+Toyota,Hilux,2.4GD-6 Xtra Cab Raider auto,542100.0,2.4
+Nissan,Navara,2.5DDTi Double Cab SE auto,542900.0,2.5
+Ford,Ranger,2.0 SiT Double Cab XL auto,544400.0,2.0
+Ford,Ranger,2.0 SiT Single Cab XL 4x4 auto,545000.0,2.0
+Ford,Ranger,2.0 SiT SuperCab XLT,547100.0,2.0
+GWM,P-Series,2.0TD Double Cab DLX 4x4 auto,551950.0,2.0
+Isuzu,D-Max,1.9TD Double Cab LS auto,556000.0,1.9
+Nissan,Navara,2.5DDTi Double Cab SE Plus,556500.0,2.5
+Volkswagen,Transporter,2.0TDI 81kW Double Cab,562300.0,2.0
+GWM,P-Series,2.0TD Double Cab LS 4x4,565950.0,2.0
+Toyota,Hilux,2.4GD-6 Double Cab Raider,567600.0,2.4
+Nissan,Navara,2.5DDTi Double Cab SE Plus auto,578900.0,2.5
+Nissan,Navara,2.5DDTi Single Cab LE 4x4,582900.0,2.5
+Toyota,Hilux,2.4GD-6 Single Cab 4x4 Raider,583200.0,2.4
+Toyota,Hilux,2.4GD-6 Double Cab Raider auto,585500.0,2.4
+Ford,Ranger,2.0 SiT Double Cab XLT,592700.0,2.0
+Isuzu,D-Max,1.9TD Double Cab L 4x4,595300.0,1.9
+Peugeot,Landtrek,1.9TD Double Cab Allure,599900.0,1.9
+Mitsubishi,Triton,2.4DI-D Double Cab,599990.0,2.4
+Toyota,Hilux,2.8GD-6 Single Cab Raider auto,602400.0,2.8
+Toyota,Hilux,2.4GD-6 Single Cab 4x4 Raider auto,605700.0,2.4
+Ford,Ranger,2.0 SiT Double Cab XL 4x4,607300.0,2.0
+Isuzu,D-Max,3.0TD Extended cab LSE,610000.0,3.0
+Toyota,Hilux,2.8GD-6 Xtra Cab Legend,611000.0,2.8
+Toyota,Hilux,2.4GD-6 Double Cab 4x4 SR,615300.0,2.4
+Mitsubishi,Triton,2.4DI-D Double Cab auto,619990.0,2.4
+Ford,Ranger,2.0 SiT Double Cab XL 4x4 auto,621900.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S11 Karoo Dusk,624999.0,2.2
+Mazda,BT-50,1.9TD Double Cab Active,630400.0,1.9
+Nissan,Navara,2.5DDTi Double Cab SE Plus 4x4,636500.0,2.5
+Toyota,Hilux,2.8GD-6 Xtra Cab Legend auto,638800.0,2.8
+GWM,P-Series,2.0TD Double Cab LT 4x4,640950.0,2.0
+Isuzu,D-Max,1.9TD Double Cab LS 4x4,650100.0,1.9
+Toyota,Hilux,2.4GD-6 Double Cab 4x4 Raider,655100.0,2.4
+Nissan,Navara,2.5DDTi Double Cab LE auto,661500.0,2.5
+Mazda,BT-50,1.9TD Double Cab Active auto,667500.0,1.9
+Ford,Ranger,2.0 SiT Double Cab XLT 4x4,669800.0,2.0
+Toyota,Hilux,2.8GD-6 Single Cab 4x4 Raider auto,675000.0,2.8
+Mitsubishi,Triton,2.4DI-D Double Cab 4x4,679990.0,2.4
+Toyota,Hilux,2.4GD-6 Double Cab 4x4 Raider auto,683800.0,2.4
+Isuzu,D-Max,3.0TD Extended cab LSE 4x4,687100.0,3.0
+Ford,Ranger,2.0 BiTurbo SuperCab XLT 4x4,688900.0,2.0
+Mitsubishi,Triton,2.4DI-D Double Cab Xtreme,688990.0,2.4
+Peugeot,Landtrek,1.9TD 4Action Double Cab 4x4,689900.0,1.9
+Toyota,Hilux,2.8GD-6 Xtra Cab 4x4 Legend,691100.0,2.8
+Isuzu,D-Max,3.0TD Double Cab LS 4x4,696400.0,3.0
+Mitsubishi,Triton,2.4DI-D Double Cab 4x4 auto,699990.0,2.4
+Ford,Ranger,2.0 BiTurbo Double Cab XLT,702300.0,2.0
+Toyota,Land Cruiser,79 4.0 V6 Single Cab,706200.0,4.0
+Toyota,Hilux,2.8GD-6 Double Cab Raider auto,709000.0,2.8
+Volkswagen,Transporter,2.0BiTDI 146kW Double Cab 4Motion,713000.0,2.0
+Isuzu,D-Max,3.0TD Double Cab LS 4x4 auto,714700.0,3.0
+Toyota,Hilux,2.8GD-6 Xtra Cab 4x4 Legend auto,719400.0,2.8
+Nissan,Navara,2.5DDTi Double Cab LE 4x4,722900.0,2.5
+Isuzu,D-Max,3.0TD Double Cab LSE,734400.0,3.0
+Mitsubishi,Triton,2.4DI-D Double Cab 4x4 Heritage,739990.0,2.4
+Nissan,Navara,2.5DDTi Double Cab LE 4x4 auto,740500.0,2.5
+Toyota,Land Cruiser,79 4.2D Single Cab,750900.0,4.2
+Nissan,Navara,2.5DDTi Double Cab PRO-2X,756500.0,2.5
+Toyota,Hilux,2.8GD-6 Double Cab Legend,757200.0,2.8
+Mitsubishi,Triton,2.4DI-D Double Cab 4x4 Xtreme,768990.0,2.4
+Ford,Ranger,2.0 BiTurbo SuperCab Wildtrak 4x4,772800.0,2.0
+Ford,Ranger,2.0 BiTurbo Double Cab Wildtrak,778300.0,2.0
+Isuzu,D-Max,3.0TD Double Cab V-Cross,779200.0,3.0
+Ford,Ranger,2.0 BiTurbo Double Cab XLT 4x4,782100.0,2.0
+Mazda,BT-50,3.0TD Double Cab Dynamic,782400.0,3.0
+Isuzu,D-Max,3.0TD Double Cab LSE 4x4,790400.0,3.0
+Toyota,Hilux,2.8GD-6 Double Cab 4x4 Raider auto,792600.0,2.8
+Volkswagen,Amarok,2.0BiTDI Double Cab Highline 4Motion,794200.0,2.0
+Volkswagen,Amarok,2.0BiTDI Double Cab Highline,799700.0,2.0
+Toyota,Land Cruiser,79 4.0 V6 Double Cab,801000.0,4.0
+Toyota,Hilux,2.8GD-6 Double Cab Legend auto,802300.0,2.8
+Nissan,Navara,2.5DDTi Double Cab PRO-4X 4x4,812900.0,2.5
+Toyota,Hilux,2.8GD-6 Double Cab 4x4 Legend,813900.0,2.8
+Mazda,BT-50,3.0TD Double Cab 4x4 Individual,818400.0,3.0
+Isuzu,D-Max,3.0TD Double Cab V-Cross 4x4,835100.0,3.0
+Toyota,Land Cruiser,79 4.2D Double Cab,839500.0,4.2
+Toyota,Hilux,4.0 V6 Double Cab 4x4 Legend,849200.0,4.0
+Toyota,Hilux,2.8GD-6 Double Cab 4x4 Legend auto,849600.0,2.8
+Toyota,Land Cruiser,79 4.5D-4D Single Cab LX V8,858500.0,4.5
+Volkswagen,Amarok,2.0BiTDI Double Cab Highline 4Motion auto,863900.0,2.0
+Ford,Ranger,2.0 BiTurbo Double Cab Wildtrak 4x4,867700.0,2.0
+Toyota,Hilux,2.8GD-6 Double Cab 4x4 GR-Sport,891400.0,2.8
+Toyota,Hilux,2.8GD-6 Double Cab Legend RS auto,895000.0,2.8
+Toyota,Hilux,2.8GD-6 Double Cab 4x4 Legend RS,909600.0,2.8
+Toyota,Land Cruiser,79 4.5D-4D LX V8 Double Cab,941200.0,4.5
+Toyota,Hilux,2.8GD-6 Double Cab 4x4 Legend RS auto,945400.0,2.8
+Ford,Ranger,3.0 V6 Double Cab Wildtrak 4WD,953500.0,3.0
+Volkswagen,Amarok,3.0 V6 TDI Double Cab Highline 4Motion,1025100.0,3.0
+Ford,Ranger,3.0 V6 EcoBoost Double Cab Raptor 4WD,1094900.0,3.0
+Volkswagen,Amarok,3.0 V6 TDI Double Cab Extreme 4Motion,1118200.0,3.0
+Suzuki,S-Presso,1.0 GL,162900.0,1.0
+Suzuki,S-Presso,1.0 GL+,169900.0,1.0
+Suzuki,Celerio,1.0 GA,178900.0,1.0
+Renault,Kwid,1.0 Life,180999.0,1.0
+Suzuki,S-Presso,1.0 S-Edition,185900.0,1.0
+Renault,Kwid,1.0 Zen,190999.0,1.0
+Suzuki,DZire,1.2 GA,193900.0,1.2
+Suzuki,Swift,1.2 GA,194900.0,1.2
+Suzuki,Celerio,1.0 GL,198900.0,1.0
+Hyundai,Atos,1.1 Motion,199900.0,1.1
+Toyota,Agya,1.0,200000.0,1.0
+Renault,Kwid,1.0 Climber,201999.0,1.0
+Kia,Picanto,1.0 Start,209995.0,1.0
+Suzuki,DZire,1.2 GL,211900.0,1.2
+Suzuki,Swift,1.2 GL,212900.0,1.2
+Hyundai,Grand,i10 1.0 Motion,214900.0,1.0
+Kia,Picanto,1.0 Street,223995.0,1.0
+Honda,Amaze,1.2 Trend,231200.0,1.2
+Suzuki,Baleno,1.5 GL,231900.0,1.5
+Suzuki,Swift,1.2 GLX,232900.0,1.2
+Kia,Picanto,1.2 Street,232995.0,1.2
+Toyota,Starlet,1.5 Xi,233000.0,1.5
+Kia,Picanto,1.0 Style,233995.0,1.0
+Kia,Picanto,1.2 Style,242995.0,1.2
+Toyota,Starlet,1.5 XS,246300.0,1.5
+Hyundai,Grand,i10 1.0 Fluid,246900.0,1.0
+Volkswagen,Polo Vivo,1.4 Trendline,247300.0,1.4
+Honda,Amaze,1.2 Comfort,247800.0,1.2
+Kia,Pegas,1.4 LX,254995.0,1.4
+Suzuki,Ciaz,1.5 GL,256900.0,1.5
+Kia,Picanto,1.2 X-Line,259995.0,1.2
+Hyundai,Grand,i10 1.2 Fluid,261900.0,1.2
+Kia,Pegas,1.4 EX,265995.0,1.4
+Volkswagen,Polo Vivo,1.4 Comfortline,266900.0,1.4
+Suzuki,Baleno,1.5 GLX,281900.0,1.5
+Nissan,Almera,1.5 Acenta,291900.0,1.5
+Toyota,Starlet,1.5 XR,294900.0,1.5
+Volkswagen,Polo Vivo,1.6 Highline,296000.0,1.6
+Suzuki,Ciaz,1.5 GLX,296900.0,1.5
+Kia,Rio,1.2 LS,299995.0,1.2
+Mazda,Mazda2,1.5 Active,302300.0,1.5
+Hyundai,i20,1.2 Motion,304900.0,1.2
+Citroën,C3,1.2 Feel,305900.0,1.2
+Toyota,Corolla Quest,1.8 Plus,307400.0,1.8
+Renault,Clio,1.0 Turbo Life,309999.0,1.0
+Kia,Rio,1.4 LS,313995.0,1.4
+Hyundai,i20,1.2 Fluid,319900.0,1.2
+Renault,Clio,1.0 Turbo Zen,324999.0,1.0
+Opel,Corsa,1.2,325900.0,1.2
+Fiat,Tipo Sedan,1.4,327900.0,1.4
+Kia,Rio,1.4 LX,328995.0,1.4
+Peugeot,208,1.2 Active,329900.0,1.2
+Mazda,Mazda2,1.5 Dynamic,330200.0,1.5
+Volkswagen,Polo Sedan,1.6,332400.0,1.6
+Volkswagen,Polo Vivo,1.0TSI GT,332800.0,1.0
+Volkswagen,Polo Hatch,1.0TSI 70kW,334400.0,1.0
+Kia,Rio,1.4 EX,341995.0,1.4
+Toyota,Corolla Quest,1.8 Prestige,348400.0,1.8
+Opel,Corsa,1.2T Edition,356900.0,1.2
+Mazda,Mazda2,1.5 Individual,358700.0,1.5
+Volkswagen,Polo Sedan,1.6 Life,360900.0,1.6
+Hyundai,i20,1.0T Fluid,362900.0,1.0
+Renault,Clio,1.0 Turbo Intens,364999.0,1.0
+Kia,Rio,1.4 Tec,366995.0,1.4
+Toyota,Corolla Quest,1.8 Exclusive,367500.0,1.8
+Volkswagen,Polo Hatch,1.0TSI 70kW Life,375400.0,1.0
+Peugeot,208,1.2T Allure,379900.0,1.2
+Fiat,Tipo Hatch,1.4 City Life,390900.0,1.4
+Suzuki,Swift,1.4T Sport,392900.0,1.4
+Fiat,Tipo Sedan,1.4 City Life,404900.0,1.4
+Abarth,500,595 turismo 1.4T,409900.0,1.4
+Mazda,Mazda3 Hatch,1.5 Active,421900.0,1.5
+Fiat,Tipo Hatch,1.4 Life,430900.0,1.4
+Mazda,Mazda3 Hatch,1.5 Dynamic,438600.0,1.5
+Abarth,500,595 competizione 1.4T,491900.0,1.4
+Mazda,Mazda3 Hatch,1.5 Individual,494000.0,1.5
+Abarth,500,595 Monster Energy Yamaha Cabriolet,509900.0,
+Toyota,GR86,,712100.0,
+Toyota,GR Yaris,1.6T GR-Four Rally,791900.0,1.6
+Subaru,WRX,2.4T,799000.0,2.4
+Honda,Civic Type,R,857500.0,
+Ford,Mustang,5.0 Mach 1 Fastback,1210000.0,5.0
+BMW,M2,Coupé ,1513689.0,
+Porsche,718 Cayman,GTS 4.0,1549000.0,4.0
+Porsche,718 Boxster,GTS 4.0,1589000.0,4.0
+Porsche,718 Spyder,Spyder,1839000.0,
+Porsche,718 Cayman,GT4,1919000.0,
+Porsche,911,Carrera T,2080000.0,
+Porsche,911,Carrera GTS Coupé,2449000.0,
+Porsche,911,Carrera GTS Cabriolet,2679000.0,
+Porsche,911,GT3,3349000.0,
+Porsche,911 Sport,Classic,5169000.0,
+Suzuki,S-Presso,1.0 GL,176900.0,1.0
+Suzuki,S-Presso,1.0 GL+,183900.0,1.0
+Suzuki,S-Presso,1.0 S-Edition,199900.0,1.0
+Renault,Kwid,1.0 Zen,200999.0,1.0
+Hyundai,Atos,1.1 Motion,209900.0,1.1
+Renault,Kwid,1.0 Climber,211999.0,1.0
+Suzuki,Celerio,1.0 GL,213900.0,1.0
+Toyota,Agya,1.0,215600.0,1.0
+Kia,Picanto,1.0 Start,223995.0,1.0
+Suzuki,DZire,1.2 GL,226900.0,1.2
+Suzuki,Swift,1.2 GL,227900.0,1.2
+Kia,Picanto,1.0 Street,237995.0,1.0
+Hyundai,Grand,i10 1.0 Motion,242900.0,1.0
+Kia,Picanto,1.2 Street,246995.0,1.2
+Kia,Picanto,1.0 Style,247995.0,1.0
+Suzuki,Swift,1.2 GLX,248900.0,1.2
+Fiat,500 TwinAir,Cult,249900.0,
+Suzuki,Baleno,1.5 GL,251900.0,1.5
+Kia,Picanto,1.2 Style,256995.0,1.2
+Honda,Amaze,1.2 Comfort,266800.0,1.2
+Toyota,Starlet,1.5 XS,268900.0,1.5
+Suzuki,Ciaz,1.5 GL,273900.0,1.5
+Kia,Picanto,1.2 X-Line,273995.0,1.2
+Kia,Pegas,1.4 EX,280995.0,1.4
+Fiat,500 TwinAir,Club,289900.0,
+Hyundai,Grand,i10 1.2 Fluid,291900.0,1.2
+Volkswagen,Polo Vivo,1.6 Comfortline,296600.0,1.6
+Suzuki,Baleno,1.5 GLX,301900.0,1.5
+Nissan,Almera,1.5 Acenta,310000.0,1.5
+Suzuki,Ciaz,1.5 GLX,311900.0,1.5
+Toyota,Starlet,1.5 XR,313300.0,1.5
+Fiat,500 TwinAir,Dolcevita,322900.0,
+Toyota,Corolla Quest,1.8 Plus,329000.0,1.8
+Kia,Rio,1.4 LS,330995.0,1.4
+Hyundai,i20,1.4 Motion,336900.0,1.4
+Kia,Rio,1.4 LX,345995.0,1.4
+Honda,Fit,1.5 Comfort,347500.0,1.5
+Mazda,Mazda2,1.5 Dynamic,349100.0,1.5
+Kia,Rio,1.4 EX,358995.0,1.4
+Fiat,500,500C TwinAir Dolcevita,359900.0,
+Toyota,Corolla Quest,1.8 Prestige,360600.0,1.8
+Honda,Ballade,1.5 Comfort,374000.0,1.5
+Citroën,C3,1.2T Shine,374900.0,1.2
+Mazda,Mazda2,1.5 Individual,379500.0,1.5
+Toyota,Corolla Quest,1.8 Exclusive,379600.0,1.8
+Volkswagen,Polo Sedan,1.6 Life,381700.0,1.6
+Kia,Rio,1.4 Tec,383995.0,1.4
+Honda,Fit,1.5 Elegance,391000.0,1.5
+Hyundai,i20,1.0T Fluid,394900.0,1.0
+Volkswagen,Polo Hatch,1.0TSI 85kW Life,397500.0,1.0
+Mazda,Mazda2,1.5 Hazumi,407400.0,1.5
+Honda,Ballade,1.5 Elegance,407700.0,1.5
+Suzuki,Swift,1.4T Sport,415900.0,1.4
+Peugeot,208,1.2T Allure,419900.0,1.2
+Honda,Fit,1.5 Executive,423500.0,1.5
+Hyundai,i20,1.0T N Line,428900.0,1.0
+Opel,Corsa,1.2T Elegance,436900.0,1.2
+Honda,Ballade,1.5 RS,440900.0,1.5
+Volkswagen,Polo hatch,1.0TSI 85kW R-Line,445500.0,1.0
+Fiat,Tipo Hatch,1.6 City Life,451900.0,1.6
+Mazda,Mazda3 Hatch,1.5 Dynamic,453300.0,1.5
+MINI,One Hatch,3-door,453707.0,
+Peugeot,208,1.2T GT,459900.0,1.2
+MINI,One Hatch,5-door,464975.0,
+Audi,A1 Sportback,30TFSI,467300.0,
+Fiat,Tipo Sedan,1.6 City Life,469900.0,1.6
+Audi,A1 Sportback,30TFSI S line,489800.0,
+Fiat,Tipo Hatch,1.6 Life,489900.0,1.6
+Toyota,Corolla Hatch,1.8 Hybrid XS,500700.0,1.8
+Mazda,Mazda3 Hatch,1.5 Individual,508800.0,1.5
+Honda,Fit Hybrid,,509600.0,
+Toyota,Corolla,1.8 Hybrid XS,512700.0,1.8
+Volkswagen,Polo GTI,GTI,522500.0,
+Toyota,Corolla,2.0 XR,527400.0,2.0
+Audi,A1 Sportback,35TFSI,527900.0,
+Toyota,Corolla Hatch,2.0 XR,529000.0,2.0
+Toyota,Corolla,1.8 Hybrid XR,532200.0,1.8
+MINI,Cooper Hatch,3-door,534873.0,
+Toyota,Corolla Hatch,1.8 Hybrid XR,539000.0,1.8
+MINI,Cooper Hatch,5-door,546220.0,
+Audi,A1 Sportback,35TFSI S line,550400.0,
+Mazda,Mazda3 Hatch,2.0 Astina,554500.0,2.0
+Audi,A1 Sportback,40TFSI S line,576200.0,
+MINI,Cooper S,Hatch 3-door,615162.0,
+Audi,A3 Sportback,35TFSI,622800.0,
+MINI,Cooper S,Hatch 3-door Resolute Edition,624662.0,
+MINI,Cooper S,Hatch 5-door,626053.0,
+MINI,Cooper S,Hatch 5-door Resolute Edition,635553.0,
+Audi,A3 Sedan,35TFSI,637800.0,
+BMW,118i,,641072.0,
+MINI,Cooper Convertible,,641661.0,
+Audi,A3 Sportback,35TFSI S line,662800.0,
+BMW,118i,M Sport,676772.0,
+Audi,A3 Sedan,35TFSI S line,677800.0,
+BMW,118d,,679250.0,
+Honda,Civic Sedan,1.5T RS,689100.0,1.5
+BMW,218i,Gran Coupé,691072.0,
+Audi,A3 Sportback,40TFSI S line,710600.0,
+BMW,118d,M Sport,714950.0,
+MINI,John Cooper,Works Hatch 3-door,719464.0,
+Audi,A3 Sedan,40TFSI S line,725600.0,
+BMW,218i,Gran Coupé M Sport,726772.0,
+Volkswagen,Golf GTI,Jacara Edition,727500.0,
+Mercedes-Benz,A200,Hatch Progressive,729554.0,
+BMW,218d,Gran Coupé,729858.0,
+MINI,Cooper S,Convertible,739010.0,
+Audi,A4,35TFSI,740700.0,
+MINI,Cooper SE,Hatch 3-door,742102.0,
+BMW,220i,Gran Coupé,742590.0,
+Volkswagen,Golf GTI,GTI,744200.0,
+MINI,Cooper SE,Hatch 3-door Resolute Edition,745402.0,
+Toyota,GR86,,748400.0,
+MINI,Cooper S,Convertible Resolute Edition,748510.0,
+Mercedes-Benz,A200,Hatch AMG Line,758554.0,
+BMW,128ti,,764260.0,
+BMW,218d,Gran Coupé M Sport,765558.0,
+BMW,318i,,767894.0,
+Lexus,ES,250 EX,771400.0,
+BMW,220i,Gran Coupé M Sport,778290.0,
+Hyundai,i30 N,,779900.0,
+Audi,A4,35TDI,784500.0,
+Mercedes-Benz,A200 Sedan,Sedan Progressive,784554.0,
+Audi,A4,40TFSI,794800.0,
+Mercedes-Benz,A200 Sedan,Sedan AMG Line,813554.0,
+BMW,318i,M Sport,817894.0,
+Audi,A4,35TDI S line,829500.0,
+Lexus,ES,300h EX,829900.0,
+BMW,320i,,832894.0,
+Audi,A5 Coupé,40TFSI,834300.0,
+Audi,A4,40TFSI S line,839800.0,
+BMW,220i,Coupé M Sport,842590.0,
+Audi,A5 Sportback,40TFSI,849300.0,
+BMW,420i,Coupé ,852742.0,
+Mercedes-Benz,CLA200,Progressive,856463.0,
+Subaru,WRX,2.4T tS ES,877000.0,2.4
+Audi,A5 Coupé,40TFSI S line,879300.0,
+BMW,320d,,880768.0,
+BMW,320i,M Sport,882894.0,
+Audi,S3 Sportback,quattro,883100.0,
+Mercedes-Benz,CLA200 AMG,Line,885463.0,
+BMW,220d,Coupé M Sport,889706.0,
+Audi,TTS Coupé,quattro,894100.0,
+Audi,A5 Sportback,40TFSI S line,894300.0,
+Audi,S3 Sedan,quattro,898100.0,
+Mercedes-Benz,CLA220d,Progressive,899749.0,
+BMW,420d,Coupé ,899858.0,
+Renault,Mégane RS,300 Trophy,899999.0,
+BMW,420i,Coupé M Sport,904842.0,
+Mercedes-Benz,C200 Coupé,AMG Line,912563.0,
+Volvo,S90,B5 Essential,922600.0,
+Audi,A5 Coupé,40TDI quattro S line,928300.0,
+Mercedes-Benz,CLA220d AMG,Line,928749.0,
+BMW,M135i,xDrive ,930537.0,
+BMW,320d,M Sport,930768.0,
+Lexus,IS,300h EX,942700.0,
+Audi,A5 Sportback,40TDI quattro S line,943300.0,
+BMW,420d,Coupé M Sport,951958.0,
+BMW,420i,Gran Coupé M Sport,953197.0,
+Mercedes-Benz,C220d Coupé,AMG Line,954850.0,
+BMW,Z4,sDrive20i M Sport,963645.0,
+Mercedes-Benz,C200,Avantgarde,966156.0,
+BMW,M235i,xDrive Gran Coupé,980840.0,
+BMW,420i,Convertible ,987853.0,
+Mercedes-Benz,E200,Avantgarde,993289.0,
+Volvo,S90,B5 Plus Dark,998300.0,
+BMW,420d,Gran Coupé M Sport,1000313.0,
+Volvo,S90,B5 Plus Bright,1002500.0,
+Mercedes-AMG,A35 Sedan,4Matic,1006041.0,
+Lexus,IS,300h SE,1008300.0,
+Mercedes-Benz,C200 AMG,Line,1020156.0,
+Lexus,ES,300h SE,1021300.0,
+Mercedes-Benz,C220d,Avantgarde,1030549.0,
+Volvo,S90,B5 Ultimate Dark,1035400.0,
+Lexus,IS,300h F Sport,1036400.0,
+Volvo,S90,B5 Ultimate Bright,1039300.0,
+Audi,A6,40TDI,1041000.0,
+BMW,420i,convertible M Sport,1044553.0,
+Mercedes-Benz,C300 Coupé,AMG Line,1048213.0,
+Mercedes-Benz,E200 AMG,Line,1059589.0,
+Mercedes-Benz,C200 Cabriolet,AMG Line,1062081.0,
+Mercedes-Benz,E220d,Avantgarde,1066926.0,
+BMW,520d,,1081376.0,
+BMW,530i,,1083956.0,
+Mercedes-Benz,C220d AMG,Line,1084549.0,
+Alfa,Romeo Giulia,2.0T Veloce,1086900.0,2.0
+Audi,S4 TFSI,quattro,1087000.0,
+Audi,A6,40TDI sports S line,1090700.0,
+Mercedes-AMG,A35 Hatch,4Matic,1112448.0,
+Ford,Mustang,5.0 GT Fastback,1117500.0,5.0
+Mercedes-Benz,E220d AMG,Line,1133226.0,
+BMW,M240i,xDrive Coupé,1138662.0,
+BMW,520d,M Sport,1143776.0,
+BMW,530i,M Sport,1146356.0,
+Toyota,GR Supra,3.0T Track,1155900.0,3.0
+Mercedes-AMG,CLA35,4Matic,1166348.0,
+Audi,S5 TFSI,Coupé quattro,1169400.0,
+Mercedes-Benz,C300 Cabriolet,AMG Line,1182231.0,
+Audi,S5 TFSI,Sportback quattro,1184400.0,
+Volvo,S90,B6 AWD Plus Dark,1186900.0,
+Ford,Mustang,5.0 GT/CS California Special fastback,1187500.0,5.0
+Volvo,S90,B6 AWD Plus Bright,1190800.0,
+Ford,Mustang,5.0 GT Convertible,1194000.0,5.0
+Audi,TT RS,Coupé quattro,1211200.0,
+Audi,RS3 Sportback,quattro,1215000.0,
+Volvo,S90,B6 AWD Ultimate Dark,1223900.0,
+Volvo,S90,B6 AWD Ultimate Bright,1227800.0,
+Ford,Mustang,5.0 Mach 1 Fastback,1233400.0,5.0
+Mercedes-Benz,E300 Coupé,AMG Line,1240989.0,
+Audi,RS3 Sedan,quattro,1245000.0,
+Audi,A6,45TDI quattro,1245700.0,
+Mercedes-AMG,A45 S,Hatch 4Matic+,1256243.0,
+Audi,TT RS,Roadster quattro,1267100.0,
+Audi,S5 TFSI,Cabriolet quattro,1269400.0,
+BMW,Z4,M40i,1286537.0,
+Audi,A6,45TDI quattro sports S line,1295400.0,
+Toyota,GR Supra,3.0T,1300600.0,3.0
+BMW,M440i,xDrive Coupé,1327599.0,
+BMW,M340i,xDrive ,1338207.0,
+Mercedes-AMG,C43 Coupé,4Matic,1358432.0,
+Mercedes-Benz,E300 Cabriolet,AMG Line,1393444.0,
+BMW,M440i,xDrive Gran Coupé,1413966.0,
+BMW,M440i,xDrive Convertible,1439117.0,
+Mercedes-AMG,CLA45 S,4Matic+,1466237.0,
+Audi,A7 Sportback,55TFSI quattro,1469700.0,
+Mercedes-AMG,C43 Cabriolet,4Matic,1489495.0,
+BMW,M2,Coupé ,1503975.0,
+Audi,A7 Sportback,55TFSI quattro S line,1505980.0,
+Porsche,718 Cayman,GTS 4.0,1549000.0,4.0
+Audi,RS5 Coupé,quattro,1552700.0,
+Audi,RS5 Sportback,quattro,1567700.0,
+Audi,S6 TFSI,quattro,1586900.0,
+Porsche,718 Boxster,GTS 4.0,1589000.0,4.0
+Lexus,RC F,,1615000.0,
+BMW,i4,M50,1637900.0,
+BMW,M550i,xDrive ,1647922.0,
+Porsche,Panamera,,1669000.0,
+Audi,S7 TFSI,Sportback quattro,1699300.0,
+Porsche,Panamera,4,1770000.0,
+Mercedes-AMG,E53 Coupé,4Matic+,1780103.0,
+Mercedes-Benz,EQE,350+ Sedan,1800000.0,
+Alfa,Romeo Giulia,Quadrifoglio,1805900.0,
+Porsche,718 Spyder,Spyder,1839000.0,
+Porsche,911,Carrera Coupé,1849000.0,
+Porsche,718 Cayman,GT4,1919000.0,
+Jaguar,F-Type,75 Coupé,1931000.0,
+Mercedes-AMG,E53 Cabriolet,4Matic+,1931407.0,
+Porsche,Panamera Platinum,Edition,1961000.0,
+Porsche,911,Carrera 4 Coupé,1979000.0,
+Porsche,Panamera,4 executive,2024000.0,
+BMW,M3,competition M xDrive,2040797.0,
+Porsche,Panamera,4 Platinum Edition,2063000.0,
+Porsche,911,Carrera Cabriolet,2079000.0,
+Porsche,911,Carrera T,2080000.0,
+Mercedes-AMG,C63 S,Coupé,2098389.0,
+Porsche,Panamera,4 e-hybrid,2119000.0,
+BMW,M4,competition Coupé M xDrive,2120797.0,
+Porsche,911,Carrera S Coupé,2159000.0,
+BMW,740i,Design Pure Excellence,2172751.0,
+Porsche,Taycan,,2179000.0,
+Mercedes-AMG,EQE,43 4Matic Sedan,2200000.0,
+BMW,M4,competition Convertible M xDrive,2201556.0,
+Mercedes-AMG,C63 S,Cabriolet,2204756.0,
+Porsche,911,targa 4,2209000.0,
+BMW,740i,M Sport,2247751.0,
+Maserati,Ghibli,GT,2250000.0,
+BMW,M850i,xDrive Gran Coupé,2252922.0,
+Porsche,911,Carrera 4S Coupé,2289000.0,
+BMW,740d,xDrive Design Pure Excellence,2293207.0,
+BMW,M850i,xDrive Coupé,2302922.0,
+Porsche,Panamera,4 e-hybrid Platinum Edition,2335000.0,
+Porsche,Panamera,4 e-hybrid executive,2359000.0,
+Audi,RS7 Sportback,quattro,2366400.0,
+BMW,740d,xDrive M Sport,2368207.0,
+Lexus,LC,500 Coupé,2371000.0,
+Porsche,911,Carrera S Cabriolet,2389000.0,
+Lexus,LS,500 F Sport,2397600.0,
+Mercedes-Benz,S350d L,,2435939.0,
+Porsche,911,Carrera GTS Coupé,2449000.0,
+BMW,M850i,xDrive Convertible,2452922.0,
+Porsche,Panamera GTS,,2463000.0,
+BMW,M5,competition ,2472466.0,
+Porsche,Panamera,4S e-hybrid,2479000.0,
+Mercedes-Benz,S350d L,AMG Line,2512639.0,
+Lexus,LC,500 Convertible,2513500.0,
+Porsche,Taycan,4S,2519000.0,
+Lexus,LS,500h,2525100.0,
+Porsche,911,Carrera 4 GTS Coupé,2579000.0,
+Lexus,RC F,Track Edition,2579100.0,
+Porsche,718 Cayman,GT4 RS,2588000.0,
+Lexus,LS,500,2595400.0,
+Mercedes-Benz,EQS,450+ Sedan,2620500.0,
+Mercedes-AMG,E63 S,4Matic+,2670479.0,
+Porsche,911,Carrera GTS Cabriolet,2679000.0,
+Audi,e-tron GT,quattro,2715000.0,
+Mercedes-Benz,S500 L,4Matic,2735064.0,
+Jaguar,F-Type,R75 Coupé,2759000.0,
+Mercedes-Benz,EQS,450+ Sedan AMG Line,2760500.0,
+Porsche,911,targa 4 GTS,2809000.0,
+Mercedes-Benz,S500 L,4Matic AMG Line,2811764.0,
+BMW,i7,xDrive60,2825000.0,
+Maserati,Quattroporte,GT,2850000.0,
+BMW,i7,xDrive60 M Sport,2900000.0,
+Porsche,911,targa Edition 50 Years Porsche Design,3029000.0,
+Porsche,Taycan GTS,,3059000.0,
+Porsche,Taycan turbo,,3329000.0,
+Porsche,911,GT3,3349000.0,
+Maserati,Ghibli,Trofeo,3350000.0,
+Audi,RS e-tron,GT quattro,3359400.0,
+BMW,M8,competition Gran Coupé,3372466.0,
+Porsche,Panamera turbo,S,3388000.0,
+Mercedes-AMG,EQS,53 4Matic+ Sedan,3415250.0,
+BMW,M8,competition Coupé,3421859.0,
+Maserati,Quattroporte,Modena,3450000.0,
+Audi,R8 Coupé,V10 performance quattro,3523600.0,
+BMW,M8,competition Convertible,3572618.0,
+Porsche,Panamera turbo,S e-hybrid,3582000.0,
+Porsche,911 turbo,Coupé,3669000.0,
+Mercedes-Maybach,S580,,3736681.0,
+Audi,R8 Spyder,V10 performance quattro,3795100.0,
+Porsche,911 turbo,Cabriolet,3899000.0,
+Porsche,Taycan turbo,S,3909000.0,
+Porsche,911 Dakar,,4140000.0,
+Porsche,911,GT3 RS,4153000.0,
+Porsche,911 turbo,S Coupé,4179000.0,
+Porsche,911 turbo,S Cabriolet,4409000.0,
+Bentley,Flying Spur,V8,4420000.0,
+Maserati,Quattroporte,Trofeo,4500000.0,
+Bentley,Flying Spur,Hybrid,4520000.0,
+Bentley,Continental GT,V8,4590000.0,
+Mercedes-Maybach,S680,,4656157.0,
+Bentley,Continental GTC,V8,5060000.0,
+Bentley,Flying Spur,V8 S,5100000.0,
+Bentley,Continental GT,S,5150000.0,
+Bentley,Flying Spur,Hybrid Azure,5280000.0,
+Bentley,Flying Spur,V8 Azure,5320000.0,
+Bentley,Flying Spur,Speed,5440000.0,
+Lamborghini,Huracán,Tecnica,5475000.0,
+Bentley,Continental GT,Azure,5520000.0,
+Bentley,Continental GTC,S,5680000.0,
+Bentley,Continental GT,Speed,5690000.0,
+Bentley,Continental GTC,Azure,6080000.0,
+Bentley,Continental GT,V8 Mulliner,6180000.0,
+Bentley,Continental GTC,Speed,6270000.0,
+Bentley,Flying Spur,V8 Mulliner,6460000.0,
+Bentley,Flying Spur,Hybrid Mulliner,6560000.0,
+Bentley,Continental GTC,V8 Mulliner,6690000.0,
+Bentley,Flying Spur,W12 Mulliner,6700000.0,
+Maserati,MC20,Coupé,6750000.0,
+Bentley,Continental GT,W12 Mulliner,6770000.0,
+Ferrari,296,GTB,6804200.0,
+Bentley,Continental GTC,W12 Mulliner,7460000.0,
+Ferrari,296,GTS,7494800.0,
+Lamborghini,Huracán,STO,8275000.0,
+Renault,Triber,1.0 Life,203999.0,1.0
+Renault,Triber,1.0 Zen,213999.0,1.0
+Renault,Triber,1.0 Intens,229999.0,1.0
+Renault,Triber,1.0 Intens auto,239999.0,1.0
+Suzuki,Ertiga,1.5 GA,258900.0,1.5
+Toyota,Rumion,1.5 S,265800.0,1.5
+Toyota,Rumion,1.5 SX,296100.0,1.5
+Suzuki,Ertiga,1.5 GL,299900.0,1.5
+Toyota,Rumion,1.5 SX auto,313000.0,1.5
+Suzuki,Ertiga,1.5 GL auto,316900.0,1.5
+Toyota,Rumion,1.5 TX,326400.0,1.5
+Mitsubishi,Xpander,1.5,339995.0,1.5
+Toyota,Rumion,1.5 TX auto,343200.0,1.5
+Mitsubishi,Xpander,1.5 auto,359995.0,1.5
+Volkswagen,Caddy Kombi,1.6,433400.0,1.6
+Fiat,Doblò Cargo,Maxi 1.3 Multijet Crew Cab SX,447900.0,1.3
+Opel,Combo Life,1.6TD Enjoy,464900.0,1.6
+Fiat,Doblò Cargo,Maxi 1.6 Multijet Crew Cab SX,466900.0,1.6
+Fiat,Doblò Combi,Maxi 1.6 Multijet SX,499900.0,1.6
+Volkswagen,Caddy Kombi,2.0TDI,500200.0,2.0
+Volkswagen,Caddy,1.6,509000.0,1.6
+Volkswagen,Caddy Maxi,Kombi 2.0TDI,528200.0,2.0
+MINI,Cooper Clubman,,596215.0,
+Volkswagen,Caddy,2.0TDI,602700.0,2.0
+Toyota,Quantum,2.8 LWB Crew cab,615900.0,2.8
+Volkswagen,Caddy Maxi,2.0TDI,630600.0,2.0
+Toyota,Hiace,2.5D-4D Bus 14-seater GL,680900.0,2.5
+MINI,Cooper S,Clubman,691799.0,
+Ford,Tourneo Custom,2.2TDCi LWB Ambiente,692700.0,2.2
+Volkswagen,Transporter,2.0TDI 81kW Crew Bus LWB 10-Seater,696800.0,2.0
+Mercedes-Benz,Vito,111 CDI Tourer Base,707643.0,
+MINI,Cooper S,Clubman Untold Edition,714799.0,
+Ford,Tourneo Custom,2.2TDCi LWB Trend,720500.0,2.2
+Volkswagen,Transporter,2.0TDI 110kW Crew Bus LWB 5-Seater,724700.0,2.0
+Subaru,Outback,2.5i-Field ES,728000.0,2.5
+Mercedes-Benz,Vito,111 CDI Mixto Crewcab,747965.0,
+Toyota,Quantum,2.8 LWB Bus 11-seater GL,758200.0,2.8
+Hyundai,Staria,2.2D Multicab,764900.0,2.2
+Toyota,Quantum,2.8 SLWB Bus 14-seater GL,775200.0,2.8
+Ford,Tourneo Custom,2.2TDCi SWB Limited,779000.0,2.2
+Ford,Tourneo Custom,2.0SiT LWB Trend,781100.0,2.0
+Subaru,Outback,2.5i-Touring ES,788000.0,2.5
+Toyota,Quantum,2.8 SLWB Bus 14-seater GL auto,793600.0,2.8
+Volkswagen,Transporter,2.0BiTDI 146kW Crew Bus SWB 4Motion 5-Seater,806500.0,2.0
+Opel,Zafira Life,2.0TD Edition,819000.0,2.0
+Volkswagen,Transporter,2.0TDI 81kW Kombi SWB Trendline,820200.0,2.0
+Kia,Carnival,2.2CRDi EX,824995.0,2.2
+Ford,Tourneo Custom,2.0SiT SWB Limited,827300.0,2.0
+Hyundai,Staria,2.2D Executive 9-seater,835900.0,2.2
+Hyundai,Staria,2.2D Executive 11-seater,846900.0,2.2
+Volkswagen,Transporter,2.0TDI 110kW Kombi SWB Trendline,853200.0,2.0
+MINI,John Cooper,Works ALL4 Clubman,855697.0,
+Mercedes-Benz,Vito,114 CDI Mixto Pro Crewcab,857845.0,
+Volkswagen,Transporter,2.0BiTDI 146kW Crew Bus LWB 4Motion 8-Seater,858600.0,2.0
+Mercedes-Benz,Vito,111 CDI Tourer Pro,865335.0,
+Kia,Carnival,2.2CRDi EX+,904995.0,2.2
+Mercedes-Benz,Vito,114 CDI Mixto Pro Crewcab auto,908137.0,
+Opel,Zafira Life,2.0TD Elegance,946900.0,2.0
+Hyundai,Staria,2.2D Elite,964900.0,2.2
+Mercedes-Benz,Vito,114 CDI Tourer Pro,993233.0,
+Kia,Carnival,2.2CRDi SX Limited,1024995.0,2.2
+Volvo,V90 Cross,Country B5 AWD Essential,1048700.0,
+Kia,Carnival,2.2CRDi SXL,1049995.0,2.2
+Mercedes-Benz,Vito,116 CDI Tourer Pro,1054209.0,
+Toyota,Quantum,2.8 LWB Bus 6-seater VX Premium,1107400.0,2.8
+Toyota,Quantum,2.8 LWB Bus 9-seater VX Premium,1111400.0,2.8
+Volvo,V90 Cross,Country B5 AWD Plus,1128700.0,
+Hyundai,Staria,2.2D Luxury,1160900.0,2.2
+Volvo,V90 Cross,Country B5 AWD Ultimate,1165700.0,
+Mercedes-Benz,Vito,116 CDI Tourer Select,1243411.0,
+Mercedes-Benz,V220d,,1285562.0,
+Mercedes-Benz,Vito,119 CDI Tourer Select,1287532.0,
+Volkswagen,Caravelle,2.0BiTDI 146kW Highline 4Motion,1353700.0,2.0
+Mercedes-Benz,V220d AMG,Line,1366205.0,
+Mercedes-Benz,V250d,,1373835.0,
+Volkswagen,California,2.0BiTDI 146kW Coast 4Motion,1410700.0,2.0
+Audi,RS4 Avant,quattro,1448400.0,
+Mercedes-Benz,V250d AMG,Line,1454478.0,
+Mercedes-Benz,V220d,Avantgarde,1653741.0,
+Mercedes-Benz,V250d,Avantgarde,1707228.0,
+Mercedes-Benz,V220d,AMG Line,1717109.0,
+Mercedes-Benz,V300d,Avantgarde,1754412.0,
+Mercedes-Benz,V250d,AMG Line,1770596.0,
+Mercedes-Benz,V300d,AMG Line,1843022.0,
+Mercedes-Benz,V300d Exclusive,,2042471.0,
+Audi,RS6 Avant,quattro,2254600.0,
+Porsche,Taycan,4 Cross Turismo,2449000.0,
+Porsche,Taycan,4S Cross Turismo,2549000.0,
+Porsche,Taycan turbo,Cross Turismo,3359000.0,
+Mahindra,KUV100 Nxt,1.2 G80 K2+,172999.0,1.2
+Mahindra,KUV100 Nxt,1.2 G80 K2+ #DARE,192999.0,1.2
+Suzuki,Ignis,1.2 GL,208900.0,1.2
+Mahindra,KUV100 Nxt,1.2 G80 K6+,217999.0,1.2
+BAIC,X25,1.5 Comfort,219990.0,1.5
+Renault,Kiger,1.0 Life,219999.0,1.0
+Mahindra,KUV100 Nxt,1.2 G80 K6+ #DARE,227999.0,1.2
+BAIC,X25,1.5 Fashion,229990.0,1.5
+Renault,Kiger,1.0 Zen,234999.0,1.0
+Suzuki,Ignis,1.2 GLX,241900.0,1.2
+Renault,Kiger,1.0 Zen auto,244999.0,1.0
+Mahindra,KUV100 Nxt,1.2 G80 K8,249999.0,1.2
+Mahindra,KUV100 Nxt,1.2TD D75 K6+,254999.0,1.2
+Suzuki,Ignis,1.2 GLX auto,258900.0,1.2
+Mahindra,XUV300,1.2T W4,259999.0,1.2
+Suzuki,Vitara Brezza,1.5 GL,262900.0,1.5
+Mahindra,XUV300,1.2T W4 SE,268999.0,1.2
+Suzuki,Vitara Brezza,1.5 GL S-Edition,281900.0,1.5
+Toyota,Urban Cruiser,1.5 Xi,283200.0,1.5
+Suzuki,Vitara Brezza,1.5 GL auto,283900.0,1.5
+Mahindra,KUV100 Nxt,1.2TD D75 K8,283999.0,1.2
+Mahindra,XUV300,1.2T W6,284999.0,1.2
+Renault,Kiger,1.0 Turbo Zen,289999.0,1.0
+Nissan,Magnite,1.0 Turbo Acenta,296500.0,1.0
+Hyundai,Venue,1.2 Motion,299900.0,1.2
+Suzuki,Vitara Brezza,1.5 GL S-Edition auto,301900.0,1.5
+Toyota,Urban Cruiser,1.5 XS,303100.0,1.5
+Nissan,Magnite,1.0 Turbo Acenta Red Edition,304300.0,1.0
+Mahindra,XUV300,1.5TD W6,306999.0,1.5
+Suzuki,Vitara Brezza,1.5 GLX,308900.0,1.5
+Renault,Kiger,1.0 Turbo Intens,309999.0,1.0
+Ford,EcoSport,1.5 Ambiente,311400.0,1.5
+Honda,WR-V,1.2 Comfort,315200.0,1.2
+Kia,Sonet,1.5 LX,316995.0,1.5
+Ford,EcoSport,1.5TDCi Ambiente,322500.0,1.5
+Nissan,Magnite,1.0 Turbo Acenta auto,324000.0,1.0
+Nissan,Magnite,1.0 Turbo Acenta Plus,326000.0,1.0
+Toyota,Urban Cruiser,1.5 XS auto,327100.0,1.5
+Suzuki,Vitara Brezza,1.5 GLX auto,329900.0,1.5
+Renault,Kiger,1.0 Turbo Intens auto,329999.0,1.0
+Nissan,Magnite,1.0 Turbo Acenta Red Edition auto,331800.0,1.0
+Toyota,Urban Cruiser,1.5 XR,333300.0,1.5
+Suzuki,Jimny,1.5 GA AllGrip,334900.0,1.5
+Chery,Tiggo,4 Pro 1.5 Comfort,336900.0,1.5
+Kia,Sonet,1.5 EX,336995.0,1.5
+Kia,Sonet,1.5 LX auto,337995.0,1.5
+Haval,Jolion,1.5T City,342950.0,1.5
+Mahindra,XUV300,1.2T W8,343999.0,1.2
+Ford,EcoSport,1.5 Ambiente Black,346710.0,1.5
+Chery,Tiggo,4 Pro 1.5T Elite,346900.0,1.5
+Nissan,Magnite,1.0 Turbo Acenta Plus auto,353500.0,1.0
+Honda,WR-V,1.2 Elegance,355900.0,1.2
+Suzuki,Jimny,1.5 GL AllGrip,356900.0,1.5
+Toyota,Urban Cruiser,1.5 XR auto,357100.0,1.5
+Kia,Sonet,1.5 EX auto,357995.0,1.5
+Renault,Duster,1.5dCi Zen,357999.0,1.5
+Ford,EcoSport,1.0T Trend,358700.0,1.0
+Hyundai,Venue,1.0T Motion,362900.0,1.0
+Mahindra,XUV300,1.5TD W8,364999.0,1.5
+Ford,EcoSport,1.0T Trend auto,375300.0,1.0
+Suzuki,Jimny,1.5 GLX AllGrip,377900.0,1.5
+Haval,Jolion,1.5T Luxury,377950.0,1.5
+Suzuki,Jimny,1.5 GL AllGrip auto,378900.0,1.5
+Honda,BR-V,1.5 Trend,379900.0,1.5
+Kia,Sonet,1.0T EX,379995.0,1.0
+Toyota,Corolla Cross,1.8 Xi,381200.0,1.8
+Haval,Jolion,1.5T Premium,384950.0,1.5
+Mitsubishi,ASX,2.0 ES,384990.0,2.0
+Mahindra,Scorpio,2.2CRDe S11,389999.0,2.2
+Mazda,CX-3,2.0 Active,390500.0,2.0
+Volkswagen,T-Cross,1.0TSI 70kW Comfortline,393400.0,1.0
+Ford,EcoSport,1.0T Active,393700.0,1.0
+BAIC,Beijing,X55 1.5T Dynamic,394900.0,1.5
+Hyundai,Venue,1.0T Fluid,397900.0,1.0
+Suzuki,Jimny,1.5 GLX AllGrip auto,399900.0,1.5
+Ford,EcoSport,1.0T Titanium,401600.0,1.0
+Renault,Duster,1.5dCi Zen auto,401999.0,1.5
+Hyundai,Venue,1.0T Motion auto,402900.0,1.0
+Mitsubishi,ASX,2.0 ES auto,404990.0,2.0
+Honda,BR-V,1.5 Comfort,409900.0,1.5
+Kia,Sonet,1.0T EX+,409995.0,1.0
+Renault,Duster,1.5dCi Intens,409999.0,1.5
+Mazda,CX-3,2.0 Active auto,412700.0,2.0
+Toyota,Corolla Cross,1.8 XS,414300.0,1.8
+Haval,Jolion,1.5T Luxury auto,414950.0,1.5
+Mahindra,Scorpio,2.2CRDe 4WD S11,414999.0,2.2
+Ford,EcoSport,1.0T Titanium auto,416900.0,1.0
+Opel,Crossland,1.2T Edition,419900.0,1.2
+BAIC,Beijing,X55 1.5T Elite,424900.0,1.5
+Mazda,CX-3,2.0 Dynamic,427700.0,2.0
+Kia,Seltos,1.6 EX,427995.0,1.6
+Hyundai,Creta,1.5 Premium,428900.0,1.5
+Citroën,C3 Aircross,1.2T Feel,429900.0,1.2
+Honda,BR-V,1.5 Comfort auto,434900.0,1.5
+Mitsubishi,ASX,2.0 LS,434990.0,2.0
+Chery,Tiggo,7 Pro 1.5T Distinction,437900.0,1.5
+Volkswagen,T-Cross,1.0TSI 85kW Comfortline,438700.0,1.0
+Suzuki,Vitara,1.6 GLX AllGrip,438900.0,1.6
+Toyota,Corolla Cross,1.8 Hybrid XS,442400.0,1.8
+Mazda,CX-3,2.0 Dynamic auto,443700.0,2.0
+Suzuki,Vitara,1.4T GLX,445900.0,1.4
+Kia,Seltos,1.6 EX auto,445995.0,1.6
+Haval,Jolion,1.5T Super Luxury,446950.0,1.5
+Hyundai,Creta,1.5 Premium auto,448900.0,1.5
+Proton,X50,1.5T Standard,449900.0,1.5
+Toyota,Corolla Cross,1.8 XR,451300.0,1.8
+Volkswagen,Taigo,1.0TSI Life,453800.0,1.0
+Peugeot,2008,1.2T Active,454900.0,1.2
+Mitsubishi,ASX,2.0 LS auto,454990.0,2.0
+Kia,Seltos,1.5CRDi EX,457995.0,1.5
+Toyota,C-HR,1.2T,459500.0,1.2
+Honda,BR-V,1.5 Elegance,459900.0,1.5
+Mahindra,Scorpio,2.2CRDe 4WD S11 Adventure,461999.0,2.2
+Hyundai,Venue,1.0T N Line,463900.0,1.0
+Kia,Seltos,1.6 EX+,463995.0,1.6
+Subaru,XV,2.0i,464000.0,2.0
+Mitsubishi,ASX,2.0 Aspire,464995.0,2.0
+Mahindra,Scorpio-N,2.2D Z4,465000.0,2.2
+Toyota,Corolla Cross,1.8 GR-Sport,466800.0,1.8
+Honda,HR-V,1.5 Comfort,469000.0,1.5
+Suzuki,Vitara,1.4T GLX auto,469900.0,1.4
+Chery,Tiggo,7 Pro 1.5T Executive,472900.0,1.5
+Mahindra,XUV700,2.0T AX5,474999.0,2.0
+Kia,Seltos,1.5CRDi EX auto,475995.0,1.5
+Hyundai,Grand Creta,2.0 Executive,477900.0,2.0
+Volkswagen,T-Cross,1.0TSI 85kW Highline,478000.0,1.0
+Opel,Crossland,1.2T GS Line,478900.0,1.2
+Haval,H6,2.0GDIT Premium,479950.0,2.0
+Mitsubishi,Eclipse Cross,2.0 GLS,479990.0,2.0
+Toyota,Corolla Cross,1.8 Hybrid XR,480200.0,1.8
+Toyota,C-HR,1.2T Plus,484000.0,1.2
+Volkswagen,Taigo,1.0TSI Style,489900.0,1.0
+Kia,Seltos,1.5CRDi EX+,493995.0,1.5
+Toyota,Corolla Cross,1.8 Hybrid GR-Sport,495200.0,1.8
+Chery,Tiggo,8 Pro 1.6TGDI 290T Distinction,496900.0,1.6
+Mazda,CX-30,2.0 Active,497700.0,2.0
+Toyota,C-HR,1.2T Plus auto,498500.0,1.2
+Proton,X50,1.5T Luxury,499900.0,1.5
+Mahindra,Scorpio-N,2.2D Z8,510000.0,2.2
+Mazda,CX-3,2.0 Individual,511600.0,2.0
+Volkswagen,Taigo,1.0TSI R-Line,513100.0,1.0
+Mazda,CX-5,2.0 Active,515600.0,2.0
+Volkswagen,T-Cross,1.5TSI 110kW R-Line,518800.0,1.5
+Haval,H6,2.0GDIT Luxury,518950.0,2.0
+Mitsubishi,Eclipse Cross,1.5T GLS,519990.0,1.5
+Nissan,X-Trail,2.0 Visia,520900.0,2.0
+Kia,Seltos,1.4T-GDI GT Line,523995.0,1.4
+Mahindra,XUV700,2.0T AX7,524999.0,2.0
+Mazda,CX-30,2.0 Dynamic,529600.0,2.0
+Proton,X70,1.5T Standard,529900.0,1.5
+Mazda,CX-5,2.0 Active auto,530900.0,2.0
+Subaru,XV,2.0i-S ES,531000.0,2.0
+Mazda,CX-3,2.0 Hikari,532600.0,2.0
+Proton,X50,1.5T Executive,535900.0,1.5
+Opel,Mokka,1.2T GS Line,539900.0,1.2
+Mazda,CX-30,2.0 Carbon Edition,540200.0,2.0
+Hyundai,Grand Creta,1.5D Executive,540900.0,1.5
+Peugeot,2008,1.2T GT,544900.0,1.2
+Jeep,Renegade,1.4T Limited,549900.0,1.4
+Haval,H6,2.0GDIT 4WD Luxury,549950.0,2.0
+Hyundai,Tucson,2.0 Premium,550900.0,2.0
+Honda,HR-V,1.5 Executive,554500.0,1.5
+Kia,Sportage,1.6T-GDi LX,554995.0,1.6
+Mahindra,XUV700,2.0T AX7 L,559999.0,2.0
+Mitsubishi,Eclipse Cross,1.5T GLS Exceed,560000.0,1.5
+Fiat,500X,1.4T Sport,560900.0,1.4
+Opel,Grandland X,1.6T,562900.0,1.6
+BAIC,B40 Plus,2.0TDi,564500.0,2.0
+Mazda,CX-5,2.0 Dynamic,565100.0,2.0
+Nissan,Qashqai,1.3T Visia,568200.0,1.3
+Hyundai,Grand Creta,2.0 Elite,571900.0,2.0
+Nissan,X-Trail,2.5 4x4 Acenta,572000.0,2.5
+Volkswagen,T-Roc,1.4TSI 110kW Design,572300.0,1.4
+Mazda,CX-30,2.0 Individual,573100.0,2.0
+Chery,Tiggo,8 Pro 1.6TGDI 290T Executive,574900.0,1.6
+Toyota,C-HR,1.2T Luxury,576900.0,1.2
+Proton,X70,1.5T Executive,579900.0,1.5
+Haval,Jolion,1.5 HEV Super Luxury,579950.0,1.5
+Fiat,500X,1.4T Sport EST,580900.0,1.4
+Renault,Koleos,2.5 Dynamique,584999.0,2.5
+Honda,CR-V,2.0 Comfort,586600.0,2.0
+Audi,Q2,35TFSI,587600.0,
+Volkswagen,Tiguan,1.4TSI 110kW,589000.0,1.4
+Peugeot,3008,1.6T Active,589900.0,1.6
+Haval,H6,2.0GDIT 4WD Super Luxury,589950.0,2.0
+Mitsubishi,Outlander,2.4 GLS,589990.0,2.4
+Mahindra,Scorpio-N,2.2D Z8L 4XPlor,590000.0,2.2
+Hyundai,Grand Creta,1.5D Elite,592900.0,1.5
+BAIC,B40 Plus,2.0TDi City Hunter,594500.0,2.0
+BAIC,B40 Plus,2.0T,599500.0,2.0
+Hyundai,Tucson,2.0 Executive,601900.0,2.0
+Kia,Sportage,1.6T-GDi EX,608995.0,1.6
+Subaru,Forester,2.0i-S ES,609000.0,2.0
+Hyundai,Kona,1.6T N Line,615900.0,1.6
+Audi,Q2,35TFSI S line,617800.0,
+Opel,Grandland X,1.6T Edition,619900.0,1.6
+Volkswagen,Tiguan Allspace,1.4TSI 110kW,629200.0,1.4
+Proton,X70,1.5T Executive AWD,629900.0,1.5
+Haval,H6 GT,2.0GDIT 4WD Super Luxury,629950.0,2.0
+Citroën,C5 Aircross,1.6T Feel,633900.0,1.6
+Renault,Koleos,2.5 Dynamique 4WD,634999.0,2.5
+Volkswagen,T-Roc,2.0TSI 140kW 4Motion Design,636700.0,2.0
+Nissan,Qashqai,1.3T Acenta,639300.0,1.3
+Proton,X70,1.5T Premium X,639900.0,1.5
+Mazda,CX-5,2.0 Carbon Edition,640600.0,2.0
+MINI,Cooper Countryman,,644940.0,
+Subaru,Forester,2.5i-Sport ES,646000.0,2.5
+BAIC,B40 Plus,2.0T City Hunter,649500.0,2.0
+Honda,CR-V,2.0 Elegance,651700.0,2.0
+Toyota,Fortuner,2.4GD-6,653450.0,2.4
+Volkswagen,Tiguan,1.4TSI 110kW Life,658200.0,1.4
+Toyota,RAV4,2.0 GX-R AWD,658500.0,2.0
+Nissan,X-Trail,1.6dCi 4x4 Tekna,660000.0,1.6
+Peugeot,3008,1.6T Allure,664900.0,1.6
+Kia,Sportage,1.6T-GDi GT Line,664995.0,1.6
+BAIC,B40 Plus,2.0T Champion,669500.0,2.0
+Hyundai,Tucson,2.0 Elite,669900.0,2.0
+Haval,H6,1.5T HEV Ultra Luxury,669950.0,1.5
+Volkswagen,T-Roc,2.0TSI 140kW 4Motion R-Line,670300.0,2.0
+Nissan,Qashqai,1.3T Acenta Plus,670600.0,1.3
+Toyota,RAV4,2.0 VX,671600.0,2.0
+Audi,Q3,35TFSI,674400.0,
+Nissan,X-Trail,2.5 4x4 Tekna,674900.0,2.5
+Toyota,Fortuner,2.4GD-6 auto,677450.0,2.4
+Volvo,XC40,B3 Essential,677700.0,
+Citroën,C5 Aircross,1.6T Shine,683900.0,1.6
+Kia,Sportage,1.6T-GDi GT Line Plus,692995.0,1.6
+Toyota,RAV4,2.5 Hybrid GX-R E-Four,698700.0,2.5
+Opel,Grandland X,1.6T Elegance,701900.0,1.6
+Subaru,Forester,2.5i-S ES,708000.0,2.5
+Audi,Q3,35TFSI S line,708400.0,
+Toyota,Fortuner,2.4GD-6 4x4,709750.0,2.4
+Volkswagen,Tiguan Allspace,1.4TSI 110kW Life,712800.0,1.4
+Volvo,XC40,B4 Essential,718900.0,
+Volkswagen,Tiguan,1.4TSI 110kW R-Line,722300.0,1.4
+Mitsubishi,Pajero Sport,2.4DI-D,724990.0,2.4
+Isuzu,mu-X,3.0TD LS,725500.0,3.0
+Volvo,XC40,B3 Plus Dark,728400.0,
+Mazda,CX-5,2.5 AWD Individual,729500.0,2.5
+Audi,Q3 Sportback,35TFSI S line,734000.0,
+Hyundai,Tucson,2.0D Elite,734900.0,2.0
+Volvo,XC40,B3 Plus Bright,736700.0,
+Honda,CR-V,1.5T Executive,737700.0,1.5
+Peugeot,3008,1.6T GT,739900.0,1.6
+Audi,Q3,40TFSI quattro Advanced,741900.0,
+Mitsubishi,Pajero Sport,2.4DI-D Aspire,744990.0,2.4
+BMW,X2,sDrive18i M Sport,747286.0,
+MINI,Cooper S,Countryman,748981.0,
+Kia,Sportage,1.6T-GDi GT Line S,749995.0,1.6
+BMW,X1,sDrive18i xLine,753045.0,
+Audi,Q3,40TFSI quattro S line,755900.0,
+Toyota,RAV4,2.5 VX AWD,763100.0,2.5
+MINI,Cooper S,Countryman Untamed Edition,764581.0,
+Mazda,CX-5,2.2DE AWD Akera,765300.0,2.2
+Volkswagen,Tiguan Allspace,1.4TSI 110kW R-Line,767400.0,1.4
+Volvo,XC40,B4 Plus Dark,769700.0,
+Volkswagen,Tiguan Allspace,2.0TSI 132kW 4Motion Style,774100.0,2.0
+Mitsubishi,Pajero Sport,2.4DI-D 4x4,774990.0,2.4
+Volvo,XC40,B4 Plus Bright,777900.0,
+Hyundai,Kona N,,779900.0,
+Audi,Q3 Sportback,40TFSI quattro S line,781500.0,
+Peugeot,5008,1.6T GT,782900.0,1.6
+Toyota,RAV4,2.5 Hybrid VX E-Four,785400.0,2.5
+BMW,X2,sDrive20i M Sport,786527.0,
+BMW,X1,sDrive18d xLine,790617.0,
+BMW,X1,sDrive18i M Sport,793045.0,
+Toyota,Fortuner,2.8GD-6,794600.0,2.8
+Volkswagen,Tiguan,2.0TDI 130kW 4Motion R-Line,794800.0,2.0
+Mitsubishi,Pajero Sport,2.4DI-D 4x4 Aspire,794990.0,2.4
+Isuzu,mu-X,3.0TD LSE,795000.0,3.0
+Volkswagen,Tiguan,2.0TSI 162kW 4Motion R-Line,795900.0,2.0
+Alfa,Romeo Tonale,1.5T Hybrid Speciale,799900.0,1.5
+Isuzu,mu-X,3.0TD LS 4x4,806400.0,3.0
+Lexus,UX,250h EX,808600.0,
+Mitsubishi,Pajero Sport,2.4DI-D 4x4 Exceed,809990.0,2.4
+Toyota,FJ Cruiser,,813000.0,
+Toyota,Land Cruiser,78 4.2D Wagon,818300.0,4.2
+Honda,CR-V,1.5T Exclusive AWD,818700.0,1.5
+Alfa,Romeo Tonale,1.5T Hybrid Veloce,819900.0,1.5
+BMW,X1,sDrive18d M Sport,830617.0,
+Kia,Sorento,2.2CRDi EX+,834995.0,2.2
+Toyota,Fortuner,2.8GD-6 VX,837800.0,2.8
+Volkswagen,Tiguan Allspace,2.0TSI 162kW 4Motion R-Line,838300.0,2.0
+Volvo,XC40,B5 AWD Plus Dark,840000.0,
+Mercedes-Benz,GLA200,Progressive,847226.0,
+Volvo,XC40,B5 AWD Plus Bright,847400.0,
+Hyundai,Santa Fe,2.2D Executive,856900.0,2.2
+Toyota,Fortuner,2.8GD-6 4x4,873500.0,2.8
+Kia,Sorento,2.2CRDi AWD EX+,874995.0,2.2
+Mercedes-Benz,GLA200 AMG,Line,876226.0,
+Mercedes-Benz,GLA200d,Progressive,883568.0,
+Lexus,UX,250h SE,891800.0,
+Isuzu,mu-X,3.0TD Onyx 4x4,895900.0,3.0
+Lexus,NX,250 AWD EX,912400.0,
+Mercedes-Benz,GLA200d AMG,Line,912568.0,
+Toyota,Fortuner,2.8GD-6 4x4 VX,915400.0,2.8
+Kia,Sorento,2.2CRDi AWD SX,939995.0,2.2
+Lexus,NX,350h AWD EX,942700.0,
+Audi,Q5,40TDI quattro,944700.0,
+Lexus,UX,250h F Sport,947500.0,
+MINI,John Cooper,Works ALL4 Countryman,953739.0,
+BMW,X3,sDrive18d,957224.0,
+Volvo,XC60,B5 AWD Essential,957900.0,
+BMW,X2,M35i,961081.0,
+Toyota,Land Cruiser,76 4.5D-4D LX V8 Station Wagon,963400.0,4.5
+Hyundai,Santa Fe,2.2D 4WD Elite,964900.0,2.2
+Ford,Everest,2.0 BiTurbo 4x4 Sport,965400.0,2.0
+Audi,Q5,40TDI quattro S line,989700.0,
+BMW,X3,sDrive18d M Sport,997224.0,
+Mercedes-Benz,GLB220d,4Matic Progressive,998388.0,
+Volvo,XC60,B5 AWD Plus Dark,999700.0,
+Jeep,Wrangler Unlimited,3.6 Sport,999900.0,3.6
+Mercedes-Benz,GLB250,Progressive,1012287.0,
+Volkswagen,Tiguan R,R,1014900.0,
+BMW,X3,sDrive20i,1015778.0,
+Kia,Sorento,2.2CRDi AWD SXL,1019995.0,2.2
+Volvo,XC60,B5 AWD Plus Bright,1025700.0,
+Mercedes-Benz,GLB220d,4Matic AMG Line,1036388.0,
+Audi,Q5 Sportback,40TDI quattro Advanced,1038700.0,
+Audi,Q5,45TFSI quattro S line,1048500.0,
+Jeep,Wrangler,3.6 Rubicon,1049900.0,3.6
+Mercedes-Benz,GLB250 AMG,Line,1050287.0,
+BMW,X3,sDrive20i M Sport,1055778.0,
+Volvo,XC60,B6 AWD Plus Dark,1063800.0,
+BMW,X3,xDrive20d,1065394.0,
+Hyundai,Palisade,2.2D 4WD Elite,1066900.0,2.2
+Volvo,XC40,P6 Recharge Plus,1075000.0,
+Audi,Q5 Sportback,40TDI quattro S line,1077700.0,
+Toyota,Land Cruiser,Prado 2.8GD TX,1079700.0,2.8
+Jaguar,E-Pace,D200 AWD R-Dynamic SE,1087000.0,
+Volvo,XC60,B6 AWD Plus Bright,1089800.0,
+Jeep,Wrangler Unlimited,3.6 Rubicon,1099900.0,3.6
+Lexus,NX,350h AWD SE,1104100.0,
+BMW,X3,xDrive20d M Sport,1105394.0,
+Land Rover,Discovery Sport,D200 Urban Edition,1108500.0,
+Porsche,Macan,,1112000.0,
+Ford,Everest,3.0 V6 4WD Platinum,1113100.0,3.0
+Land Rover,Discovery Sport,P250 Urban Edition,1113600.0,
+Mercedes-Benz,GLC220d,4Matic,1124312.0,
+Land Rover,Discovery Sport,D200 R-Dynamic SE,1125100.0,
+Land Rover,Range Rover Evoque,D200 Bronze Collection,1126400.0,
+Land Rover,Discovery Sport,P250 R-Dynamic SE,1130200.0,
+Lexus,NX,350h AWD F Sport,1130400.0,
+Land Rover,Range Rover Evoque,P250 Bronze Collection,1131800.0,
+Audi,Q5 Sportback,45TFSI quattro S line,1136500.0,
+Lexus,NX,350 AWD F Sport,1140900.0,
+Land Rover,Range Rover Evoque,D200 R-Dynamic SE,1143200.0,
+Land Rover,Range Rover Evoque,P250 R-Dynamic SE,1148600.0,
+BMW,X4,xDrive20d,1152894.0,
+Land Rover,Discovery Sport,D200 R-Dynamic HSE,1154500.0,
+Jaguar,E-Pace,D200 AWD R-Dynamic HSE,1155000.0,
+Mercedes-Benz,GLC220d Coupé,4Matic,1156053.0,
+Land Rover,Discovery Sport,P250 R-Dynamic HSE,1159600.0,
+Mercedes-Benz,EQA,250 Progressive,1174000.0,
+Toyota,Land Cruiser,Prado 4.0 VX,1183600.0,4.0
+BMW,X4,xDrive20d M Sport,1192894.0,
+Audi,RSQ3 quattro,,1195900.0,
+Land Rover,Range Rover Evoque,D200 R-Dynamic HSE,1196500.0,
+Mercedes-Benz,GLC300d Coupé,4Matic,1200313.0,
+Land Rover,Range Rover Evoque,P250 R-Dynamic HSE,1201900.0,
+Alfa,Romeo Stelvio,2.0T Veloce Q4,1204900.0,2.0
+Lexus,RX,350 EX,1206700.0,
+Mercedes-Benz,GLC220d,4Matic AMG Line,1206905.0,
+Mercedes-Benz,GLC220d Coupé,4Matic AMG Line,1209953.0,
+Porsche,Macan T,,1215000.0,
+Toyota,Land Cruiser,Prado 2.8GD VX,1220000.0,2.8
+Mercedes-Benz,EQA,250 AMG Line,1227000.0,
+Audi,RSQ3 Sportback,quattro,1232300.0,
+Toyota,Land Cruiser,Prado 4.0 VX-L,1233800.0,4.0
+Mercedes-Benz,GLC300 Coupé,4Matic,1239035.0,
+Mercedes-Benz,GLC300,4Matic,1243323.0,
+Mercedes-Benz,GLC300d Coupé,4Matic AMG Line,1254213.0,
+BMW,X3,xDrive30d,1256840.0,
+Volvo,XC40,P8 Recharge Twin AWD Ultimate,1260000.0,
+Land Rover,Range Rover Evoque,D200 Autobiography,1268700.0,
+Toyota,Land Cruiser,Prado 2.8GD VX-L,1271900.0,2.8
+Land Rover,Range Rover Evoque,P250 Autobiography,1274100.0,
+Audi,SQ5 TFSI,quattro,1278500.0,
+Volvo,XC60,T8 Recharge AWD Plus Dark,1284000.0,
+Mercedes-Benz,GLC300 Coupé,4Matic AMG Line,1292935.0,
+Volvo,C40,P8 Recharge Twin AWD Ultimate,1295000.0,
+Lexus,RX,350L EX,1295900.0,
+BMW,X3,xDrive30d M Sport,1296840.0,
+BMW,iX3,M Sport,1306400.0,
+Volvo,XC60,T8 Recharge AWD Plus Bright,1310000.0,
+Land Rover,Defender,90 D240 SE,1311500.0,
+Volvo,XC90,B5 AWD Essential,1312500.0,
+Mercedes-Benz,GLC300d,4Matic,1323894.0,
+Mercedes-Benz,GLC300,4Matic AMG Line,1325916.0,
+Jeep,Grand Cherokee,L 3.6 4x4 Limited,1329900.0,3.6
+Volkswagen,Touareg,V6 TDI Luxury,1331800.0,
+Porsche,Macan S,,1337000.0,
+Land Rover,Defender,110 D240 SE,1345500.0,
+Lexus,RX,350 F Sport,1349500.0,
+Jaguar,F-Pace,D200 AWD R-Dynamic SE,1357000.0,
+Toyota,Land Cruiser,300 3.3D GX-R,1375100.0,3.3
+Mercedes-Benz,EQB,350 4Matic Progressive,1379000.0,
+Audi,SQ5 Sportback,TFSI quattro,1405500.0,
+Mercedes-Benz,GLC300d,4Matic AMG Line,1406487.0,
+Volvo,XC90,B5 AWD Plus Dark,1408500.0,
+Jaguar,F-Pace,D300 AWD R-Dynamic SE,1416000.0,
+Jaguar,F-Pace,D200 AWD R-Dynamic HSE,1417000.0,
+Mercedes-Benz,EQB,350 4Matic AMG Line,1432000.0,
+Land Rover,Defender,90 D240 XS Edition,1439500.0,
+Land Rover,Defender,110 D300 SE,1443600.0,
+Land Rover,Defender,110 D240 X-Dynamic SE,1449500.0,
+Volvo,XC90,B6 AWD Plus Dark,1463900.0,
+BMW,X3,M40i,1468146.0,
+Land Rover,Range Rover Evoque,P300e Bronze Collection,1469700.0,
+Land Rover,Defender,110 D240 XS Edition,1470500.0,
+Land Rover,Defender,90 D240 X-Dynamic HSE,1474500.0,
+Jaguar,F-Pace,D300 AWD R-Dynamic HSE,1477000.0,
+Jaguar,E-Pace,P300e AWD R-Dynamic SE,1478000.0,
+Land Rover,Range Rover Evoque,P300e R-Dynamic SE,1483600.0,
+Land Rover,Defender,90 D300 X-Dynamic SE,1494600.0,
+Land Rover,Discovery Sport,P300e R-Dynamic SE,1494700.0,
+Land Rover,Defender,110 D240 X-Dynamic HSE,1511500.0,
+Ineos,Grenadier,3.0TD,1513100.0,3.0
+Land Rover,Range Rover Velar,D200 Dynamic SE,1519000.0,
+Audi,Q7,45TDI quattro,1520000.0,
+Mercedes-Benz,EQB,350 4Matic Edition 1,1523400.0,
+Jeep,Grand Cherokee,L 3.6 4x4 Overland,1529900.0,3.6
+Land Rover,Discovery Sport,P300e R-Dynamic HSE,1534200.0,
+Land Rover,Defender,110 D300 X-Dynamic SE,1535600.0,
+Jaguar,E-Pace,P300e AWD R-Dynamic HSE,1541000.0,
+Land Rover,Range Rover Evoque,P300e R-Dynamic HSE,1542000.0,
+Porsche,Cayenne,,1545000.0,
+BMW,X4,M40i,1558146.0,
+Land Rover,Defender,90 D300 X-Dynamic HSE,1561600.0,
+Audi,Q7,45TDI quattro S line,1565000.0,
+Lexus,RX,450h SE,1567800.0,
+Land Rover,Defender,110 D300 X-Dynamic HSE,1598600.0,
+BMW,X5,xDrive30d,1603510.0,
+Land Rover,Defender,90 P400 X-Dynamic HSE,1607700.0,
+Mercedes-AMG,GLC43 Coupé,4Matic,1608193.0,
+Porsche,Macan GTS,,1617000.0,
+Land Rover,Discovery,D300 S,1617900.0,
+Land Rover,Discovery,P360 S,1618700.0,
+Volkswagen,Touareg,V6 TDI Executive R-Line,1622800.0,
+Mercedes-Benz,GLE300d,4Matic,1623789.0,
+Porsche,Cayenne,Coupé nan,1627000.0,
+Ineos,Grenadier,3.0TD Fieldmaster Edition,1630560.0,3.0
+BMW,X5,xDrive45e xLine,1638000.0,
+Land Rover,Defender,110 P400 X-Dynamic HSE,1642700.0,
+Maserati,Grecale,GT,1650000.0,
+BMW,X5,xDrive30d M Sport,1650510.0,
+Land Rover,Range Rover Velar,D200 Dynamic HSE,1653000.0,
+BMW,X5,xDrive45e M Sport,1659400.0,
+Volvo,XC90,T8 Recharge AWD Plus Dark,1663000.0,
+Audi,Q8,45TDI quattro,1672700.0,
+Mercedes-Benz,EQC,400 4Matic AMG Line,1679000.0,
+Nissan,Patrol,5.6 V8 LE 4WD,1683900.0,5.6
+Land Rover,Range Rover Velar,D300 Dynamic SE,1690000.0,
+Mercedes-Benz,GLE300d,4Matic AMG Line,1699589.0,
+Mercedes-Benz,GLE450,4Matic,1701520.0,
+BMW,X6,xDrive30d,1704269.0,
+Porsche,Cayenne,S nan,1709000.0,
+Audi,Q8,55TFSI quattro,1714900.0,
+Jeep,Grand Cherokee,L 3.6 4x4 Summit Reserve,1724900.0,3.6
+BMW,X6,xDrive40i,1730850.0,
+BMW,iX,xDrive40,1735000.0,
+Land Rover,Discovery,D300 R-Dynamic SE,1739900.0,
+Porsche,Cayenne,Platinum Edition,1740000.0,
+Land Rover,Discovery,P360 R-Dynamic SE,1740700.0,
+Audi,e-tron,55 quattro,1745000.0,
+BMW,X6,xDrive30d M Sport,1751269.0,
+Land Rover,Defender,130 D300 X-Dynamic HSE,1754600.0,
+Land Rover,Defender,130 D300 First Edition,1758600.0,
+Porsche,Cayenne,Coupé Platinum Edition,1760000.0,
+Land Rover,Defender,90 D300 X,1761600.0,
+Mercedes-Benz,GLE400d,4Matic,1761993.0,
+Land Rover,Defender,90 D300 75 Years / 75th Limited Edition,1762600.0,
+Mercedes-Benz,GLE450,4Matic AMG Line,1777320.0,
+BMW,X6,xDrive40i M Sport,1777850.0,
+Land Rover,Range Rover Velar,P340 Dynamic HSE,1788000.0,
+Porsche,Cayenne,S Coupé,1790000.0,
+Land Rover,Defender,130 P400 X-Dynamic HSE,1798500.0,
+Land Rover,Defender,90 P400 X,1799700.0,
+Land Rover,Defender,110 D300 75 Years / 75th Limited Edition,1801600.0,
+Land Rover,Defender,130 P400 First Edition,1803500.0,
+Land Rover,Range Rover Velar,D300 Dynamic HSE,1809000.0,
+Land Rover,Defender,110 P400e X-Dynamic SE,1811300.0,
+Land Rover,Defender,90 P400 75 Years / 75th Limited Edition,1811700.0,
+Jaguar,F-Pace,P400e AWD R-Dynamic SE,1815000.0,
+Land Rover,Defender,110 D300 X,1826600.0,
+Mercedes-Benz,GLE400d,4Matic AMG Line,1837793.0,
+Land Rover,Defender,110 P400 75 Years / 75th Limited Edition,1845700.0,
+Porsche,Cayenne,GTS nan,1851000.0,
+Land Rover,Discovery,D300 R-Dynamic HSE,1860900.0,
+Land Rover,Discovery,P360 R-Dynamic HSE,1861700.0,
+Jaguar,F-Pace,P400e AWD R-Dynamic HSE,1869000.0,
+Land Rover,Defender,110 P400e X-Dynamic HSE,1874300.0,
+Land Rover,Defender,110 P400 X,1875700.0,
+Toyota,Land Cruiser,300 3.3D ZX,1892000.0,3.3
+Land Rover,Range Rover Velar,P400e Dynamic SE,1905000.0,
+Porsche,Cayenne,S Coupé Platinum Edition,1912000.0,
+Land Rover,Discovery,D300 Metropolitan Edition,1916900.0,
+Land Rover,Discovery,P360 Metropolitan Edition,1917700.0,
+Porsche,Cayenne,GTS Coupé,1922000.0,
+Land Rover,Defender,130 D300 X,1924600.0,
+Toyota,Land Cruiser,300 3.5T ZX,1925800.0,3.5
+Alfa,Romeo Stelvio,Quadrifoglio Q4,1936900.0,
+Toyota,Land Cruiser,300 3.3D GR-Sport,1941700.0,3.3
+Porsche,Cayenne,e-hybrid nan,1949000.0,
+Land Rover,Defender,110 P400e X,1949300.0,
+Maserati,Grecale,Modena,1950000.0,
+BMW,X7,xDrive40d Design Pure Excellence,1962457.0,
+Land Rover,Defender,130 P400 X,1974500.0,
+Toyota,Land Cruiser,300 3.5T GR-Sport,1974900.0,3.5
+BMW,X5,M50d,1984573.0,
+Jaguar,F-Pace SVR,,1995000.0,
+BMW,X5,M50i,1995502.0,
+Land Rover,Range Rover Velar,P400e Dynamic HSE,2008000.0,
+Land Rover,Range Rover Sport,D350 Dynamic S,2020100.0,
+Land Rover,Range Rover Sport,P400 Dynamic S,2023600.0,
+BMW,X7,xDrive40d M Sport,2037457.0,
+Mercedes-Benz,GLS400d,4Matic,2041243.0,
+Audi,e-tron,55 quattro S line,2045000.0,
+Mercedes-Benz,GLE400d Coupé,4Matic AMG Line,2064107.0,
+BMW,X3,M competition,2072618.0,
+Land Rover,Range Rover Sport,D350 Dynamic SE,2081000.0,
+Land Rover,Range Rover Sport,P400 Dynamic SE,2084500.0,
+Porsche,Cayenne,e-hybrid Platinum Edition,2089000.0,
+BMW,X6,M50d,2104573.0,
+Audi,e-tron Sportback,55 quattro S line,2115000.0,
+BMW,X6,M50i,2115502.0,
+Porsche,Cayenne,e-hybrid Coupé Platinum Edition,2119000.0,
+BMW,X4,M competition,2162618.0,
+Mercedes-Benz,GLS400d,4Matic AMG Line,2167343.0,
+Maserati,Levante,GT,2175000.0,
+Mercedes-AMG,GLE53,4Matic+,2180414.0,
+Land Rover,Range Rover Sport,D350 Dynamic HSE,2208100.0,
+Mercedes-AMG,GLE53 Coupé,4Matic+,2218611.0,
+Jaguar,I-Pace,EV400 AWD R-Dynamic HSE,2249000.0,
+BMW,iX,xDrive50,2270000.0,
+Land Rover,Range Rover Sport,D350 Autobiography,2271200.0,
+Mercedes-AMG,GLC63 S,Coupé 4Matic+,2290522.0,
+Land Rover,Range Rover Sport,D350 First Edition,2300600.0,
+BMW,X7,M60i xDrive,2316574.0,
+Mercedes-Benz,GLS580,4Matic,2338552.0,
+Lexus,LX,500d,2341000.0,
+Lexus,LX,500d F Sport,2350200.0,
+Lexus,LX,600 F Sport,2383800.0,
+Lexus,LX,600,2398000.0,
+Audi,e-tron S,Sportback quattro,2425000.0,
+Mercedes-Benz,GLS580,4Matic AMG Line,2435652.0,
+Land Rover,Defender,90 V8,2528600.0,
+Maserati,Grecale,Trofeo,2550000.0,
+Audi,RSQ8 quattro,,2625000.0,
+Land Rover,Defender,90 V8 Carpathian Edition,2628600.0,
+Porsche,Cayenne,turbo nan,2635000.0,
+Land Rover,Defender,110 V8,2648600.0,
+Porsche,Cayenne,turbo Coupé,2706000.0,
+Land Rover,Defender,110 V8 Carpathian Edition,2749600.0,
+Land Rover,Range Rover Sport,P510e Autobiography,2780600.0,
+Lexus,LX,600 VIP,2787500.0,
+Land Rover,Range Rover Sport,P510e First Edition,2810100.0,
+Land Rover,Range Rover,D350 SE,2848600.0,
+Maserati,Levante,Modena,2875000.0,
+Mercedes-Benz,G400d AMG,Line,2893333.0,
+BMW,X5,M competition,2928994.0,
+Land Rover,Range Rover,D350 HSE,2966600.0,
+Land Rover,Range Rover,D350 SE L 7 seats,2967600.0,
+BMW,X6,M competition,3028842.0,
+Land Rover,Range Rover Sport,P530 First Edition,3042500.0,
+Land Rover,Range Rover,P530 HSE,3148600.0,
+Porsche,Cayenne,turbo S e-hybrid,3277000.0,
+Mercedes-AMG,GLE63 S,4Matic+,3337137.0,
+Porsche,Cayenne,turbo S e-hybrid Coupé,3358000.0,
+BMW,XM,,3400000.0,
+Mercedes-AMG,GLS63,4Matic+,3401662.0,
+Mercedes-AMG,GLE63 S,Coupé 4Matic+,3405844.0,
+Land Rover,Range Rover,D350 Autobiography,3428600.0,
+Porsche,Cayenne,turbo GT,3500000.0,
+Land Rover,Range Rover,D350 Autobiography L,3513600.0,
+Land Rover,Range Rover,D350 Autobiography L 7 seats,3544600.0,
+Land Rover,Range Rover,D350 First Edition,3556600.0,
+Mercedes-AMG,G63,,3561868.0,
+Land Rover,Range Rover,P530 Autobiography,3610600.0,
+Land Rover,Range Rover,P510e Autobiography,3637300.0,
+Land Rover,Range Rover,D350 First Edition L,3640600.0,
+Mercedes-Maybach,GLS600,,3652592.0,
+Land Rover,Range Rover,P510e First Edition,3693300.0,
+Land Rover,Range Rover,P530 Autobiography L,3695600.0,
+Land Rover,Range Rover,P530 First Edition,3719600.0,
+Land Rover,Range Rover,P530 Autobiography L 7 seats,3726600.0,
+Land Rover,Range Rover,P530 First Edition L,3804600.0,
+Land Rover,Range Rover,D350 SV,3992600.0,
+Land Rover,Range Rover,P530 SV,4069600.0,
+Land Rover,Range Rover,P510e SV,4085300.0,
+Maserati,Levante,Trofeo,4250000.0,
+Lamborghini,Urus,S,4395000.0,
+Land Rover,Range Rover,D350 SV L,4426600.0,
+Bentley,Bentayga,V8,4480000.0,
+Land Rover,Range Rover,P530 SV L,4504600.0,
+Lamborghini,Urus,Performante,4795000.0,
+Bentley,Bentayga S,S,5310000.0,
+Bentley,Bentayga Azure,Azure,5390000.0,
+Bentley,Bentayga EWB,Azure,5770000.0,
+Bentley,Bentayga Speed,Speed,5820000.0,
+Nissan,NP200,1.6i safety pack,212500.0,1.6
+Nissan,NP200,1.6i safety pack (aircon),230900.0,1.6
+GWM,Steed,5 2.2MPi Single Cab Workhorse,233950.0,2.2
+Mahindra,Pik Up,2.2CRDe Single Cab S4,263999.0,2.2
+GWM,Steed,5 2.0VGT Single Cab S,299950.0,2.0
+Mahindra,Pik Up,2.2CRDe Single Cab 4x4 S4,302999.0,2.2
+GWM,Steed,5 2.0VGT Single Cab S 4WD,330950.0,2.0
+Mahindra,Pik Up,2.2CRDe Single Cab S6,331999.0,2.2
+Toyota,Hilux,2.0 Single Cab S,336100.0,2.0
+Isuzu,D-Max Gen,6 250c Single Cab,340000.0,
+Nissan,Navara,2.5 Single Cab XE,344900.0,2.5
+GWM,Steed,5 2.0VGT Single Cab SX 4WD,344950.0,2.0
+JAC,T6,2.0VVT Double Cab Lux,354900.0,2.0
+Isuzu,D-Max Gen,6 250c Single Cab Fleetside,367500.0,
+JAC,T6,2.8TDi Double Cab Lux,369900.0,2.8
+Mahindra,Pik Up,2.2CRDe Single Cab 4x4 S6,370999.0,2.2
+JAC,T6,1.9TDi Double Cab Comfort,374900.0,1.9
+GWM,Steed,5 2.0VGT Double Cab SX,374950.0,2.0
+Toyota,Hilux,2.4GD Single Cab S,378900.0,2.4
+Nissan,Navara,2.5DDTi Single Cab XE,387200.0,2.5
+Mahindra,Pik Up,2.2CRDe Double Cab S6,389999.0,2.2
+Isuzu,D-Max Gen,6 250 Single Cab Fleetside safety,394100.0,
+GWM,P-Series,2.0TD Single Cab SX,404950.0,2.0
+GWM,Steed,5 2.0VGT Double Cab SX 4WD,406950.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab S6 Karoo,410999.0,2.2
+Isuzu,D-Max,1.9TD Single Cab,411800.0,1.9
+JAC,T6,2.8TDi Double Cab 4WD Lux,419900.0,2.8
+Mitsubishi,Triton,2.4DI-D Single Cab GL,419995.0,2.4
+Mahindra,Pik Up,2.2CRDe Double Cab S10,420999.0,2.2
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S6,428999.0,2.2
+Isuzu,D-Max,1.9TD Single Cab L,431600.0,1.9
+Toyota,Hilux,2.7 Single Cab S,433100.0,2.7
+GWM,P-Series,2.0TD Single Cab DLX,434950.0,2.0
+GWM,P-Series,2.0TD Double Cab SX,435950.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab S10 Karoo,440999.0,2.2
+Mahindra,Pik Up,2.2CRDe Double Cab S6 Karoo auto,441999.0,2.2
+Isuzu,D-Max,1.9TD Extended cab,444500.0,1.9
+JAC,T8,2.0CTi Double Cab Lux,449900.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S6 Karoo,449999.0,2.2
+Isuzu,D-Max,1.9TD Single Cab L auto,450200.0,1.9
+Mahindra,Pik Up,2.2CRDe Double Cab S11,455999.0,2.2
+Isuzu,D-Max,1.9TD Extended cab L,459800.0,1.9
+GWM,P-Series,2.0TD Single Cab SX 4x4,459950.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S10,459999.0,2.2
+GWM,P-Series,2.0TD Double Cab DLX,463950.0,2.0
+Ford,Ranger,2.0 SiT Single Cab XL,464200.0,2.0
+Nissan,Navara,2.5DDTi Single Cab SE,466700.0,2.5
+Toyota,Hilux,2.4GD-6 Single Cab SR,469200.0,2.4
+Ford,Ranger,2.0 SiT Single Cab XL auto,477800.0,2.0
+Volkswagen,Transporter,2.0TDI 81kW Single Cab,477900.0,2.0
+GWM,P-Series,2.0TD Double Cab SX auto,477950.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S10 Karoo,479999.0,2.2
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S6 Karoo auto,480999.0,2.2
+Ford,Ranger,2.0 SiT SuperCab XL,485400.0,2.0
+Ford,Ranger,2.0 SiT Double Cab,486000.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab S11 Karoo,486999.0,2.2
+GWM,P-Series,2.0TD Double Cab SX 4x4,487950.0,2.0
+GWM,P-Series,2.0TD Single Cab DLX 4x4,489950.0,2.0
+Toyota,Hilux,2.7 Double Cab S,493600.0,2.7
+Isuzu,D-Max,1.9TD Extended cab LS,494000.0,1.9
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S11,494999.0,2.2
+Isuzu,D-Max Gen,6 250 Double Cab Hi-Ride,496900.0,
+JAC,T8,2.0CTi Double Cab 4WD Lux,499900.0,2.0
+Nissan,Navara,2.5DDTi Single Cab LE,504900.0,2.5
+GWM,P-Series,2.0TD Double Cab DLX auto,504950.0,2.0
+Mitsubishi,Triton,2.4DI-D Double Cab GL,504990.0,2.4
+Toyota,Hilux,2.4GD-6 Single Cab Raider,506900.0,2.4
+Isuzu,D-Max,1.9TD Double Cab L,511400.0,1.9
+Isuzu,D-Max,1.9TD Extended cab LS auto,513700.0,1.9
+Nissan,Navara,2.5DDTi Double Cab SE,514500.0,2.5
+GWM,P-Series,2.0TD Double Cab DLX 4x4,514950.0,2.0
+GWM,P-Series,2.0TD Double Cab LS,515950.0,2.0
+Isuzu,D-Max Gen,6 250 Double Cab Hi-Ride auto,517700.0,
+Toyota,Hilux,2.4GD-6 Xtra Cab Raider,521500.0,2.4
+Isuzu,D-Max,1.9TD Single Cab L 4x4,523900.0,1.9
+GWM,P-Series,2.0TD Double Cab SX 4x4 auto,524950.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S11 Karoo,525999.0,2.2
+Toyota,Hilux,2.4GD-6 Single Cab Raider auto,527600.0,2.4
+Ford,Ranger,2.0 SiT Double Cab 4x4,528600.0,2.0
+Ford,Ranger,2.0 SiT Double Cab XL,529900.0,2.0
+Isuzu,D-Max,1.9TD Double Cab L auto,530100.0,1.9
+Ford,Ranger,2.0 SiT Single Cab XL 4x4,531300.0,2.0
+Toyota,Hilux,2.4GD-6 Double Cab SR,534400.0,2.4
+Isuzu,D-Max,1.9TD Double Cab LS,538900.0,1.9
+Toyota,Hilux,2.4GD-6 Single Cab 4x4 SR,540000.0,2.4
+Nissan,Navara,2.5DDTi Single Cab SE 4x4,541200.0,2.5
+Toyota,Hilux,2.4GD-6 Xtra Cab Raider auto,542100.0,2.4
+Nissan,Navara,2.5DDTi Double Cab SE auto,542900.0,2.5
+Ford,Ranger,2.0 SiT Double Cab XL auto,544400.0,2.0
+Ford,Ranger,2.0 SiT Single Cab XL 4x4 auto,545000.0,2.0
+Ford,Ranger,2.0 SiT SuperCab XLT,547100.0,2.0
+GWM,P-Series,2.0TD Double Cab DLX 4x4 auto,551950.0,2.0
+Isuzu,D-Max,1.9TD Double Cab LS auto,556000.0,1.9
+Nissan,Navara,2.5DDTi Double Cab SE Plus,556500.0,2.5
+Volkswagen,Transporter,2.0TDI 81kW Double Cab,562300.0,2.0
+GWM,P-Series,2.0TD Double Cab LS 4x4,565950.0,2.0
+Toyota,Hilux,2.4GD-6 Double Cab Raider,567600.0,2.4
+Nissan,Navara,2.5DDTi Double Cab SE Plus auto,578900.0,2.5
+Nissan,Navara,2.5DDTi Single Cab LE 4x4,582900.0,2.5
+Toyota,Hilux,2.4GD-6 Single Cab 4x4 Raider,583200.0,2.4
+Toyota,Hilux,2.4GD-6 Double Cab Raider auto,585500.0,2.4
+GWM,P-Series,2.0TD Double Cab LT,589950.0,2.0
+Ford,Ranger,2.0 SiT Double Cab XLT,592700.0,2.0
+Isuzu,D-Max,1.9TD Double Cab L 4x4,595300.0,1.9
+Peugeot,Landtrek,1.9TD Double Cab Allure,599900.0,1.9
+Mitsubishi,Triton,2.4DI-D Double Cab,599990.0,2.4
+Nissan,Navara,2.5DDTi Double Cab SE 4x4,601900.0,2.5
+Toyota,Hilux,2.8GD-6 Single Cab Raider auto,602400.0,2.8
+Toyota,Hilux,2.4GD-6 Single Cab 4x4 Raider auto,605700.0,2.4
+Ford,Ranger,2.0 SiT Double Cab XL 4x4,607300.0,2.0
+Isuzu,D-Max,3.0TD Extended cab LSE,610000.0,3.0
+Toyota,Hilux,2.8GD-6 Xtra Cab Legend,611000.0,2.8
+Toyota,Hilux,2.4GD-6 Double Cab 4x4 SR,615300.0,2.4
+Mitsubishi,Triton,2.4DI-D Double Cab auto,619990.0,2.4
+Ford,Ranger,2.0 SiT Double Cab XL 4x4 auto,621900.0,2.0
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S11 Karoo Dusk,624999.0,2.2
+Mazda,BT-50,1.9TD Double Cab Active,630400.0,1.9
+Mahindra,Pik Up,2.2CRDe Double Cab 4x4 S11 Karoo Storm,634999.0,2.2
+Nissan,Navara,2.5DDTi Double Cab SE Plus 4x4,636500.0,2.5
+Toyota,Hilux,2.8GD-6 Xtra Cab Legend auto,638800.0,2.8
+GWM,P-Series,2.0TD Double Cab LT 4x4,640950.0,2.0
+Isuzu,D-Max,1.9TD Double Cab LS 4x4,650100.0,1.9
+Toyota,Hilux,2.4GD-6 Double Cab 4x4 Raider,655100.0,2.4
+Nissan,Navara,2.5DDTi Double Cab LE auto,661500.0,2.5
+Mazda,BT-50,1.9TD Double Cab Active auto,667500.0,1.9
+Ford,Ranger,2.0 SiT Double Cab XLT 4x4,669800.0,2.0
+Toyota,Hilux,2.8GD-6 Single Cab 4x4 Raider auto,675000.0,2.8
+Mitsubishi,Triton,2.4DI-D Double Cab 4x4,679990.0,2.4
+Toyota,Hilux,2.4GD-6 Double Cab 4x4 Raider auto,683800.0,2.4
+Isuzu,D-Max,3.0TD Extended cab LSE 4x4,687100.0,3.0
+Ford,Ranger,2.0 BiTurbo SuperCab XLT 4x4,688900.0,2.0
+Mitsubishi,Triton,2.4DI-D Double Cab Xtreme,688990.0,2.4
+Peugeot,Landtrek,1.9TD 4Action Double Cab 4x4,689900.0,1.9
+Toyota,Hilux,2.8GD-6 Xtra Cab 4x4 Legend,691100.0,2.8
+Isuzu,D-Max,3.0TD Double Cab LS 4x4,696400.0,3.0
+Mitsubishi,Triton,2.4DI-D Double Cab 4x4 auto,699990.0,2.4
+Ford,Ranger,2.0 BiTurbo Double Cab XLT,702300.0,2.0
+Toyota,Land Cruiser,79 4.0 V6 Single Cab,706200.0,4.0
+Toyota,Hilux,2.8GD-6 Double Cab Raider auto,709000.0,2.8
+Volkswagen,Transporter,2.0BiTDI 146kW Double Cab 4Motion,713000.0,2.0
+Isuzu,D-Max,3.0TD Double Cab LS 4x4 auto,714700.0,3.0
+Toyota,Hilux,2.8GD-6 Xtra Cab 4x4 Legend auto,719400.0,2.8
+Nissan,Navara,2.5DDTi Double Cab LE 4x4,722900.0,2.5
+Isuzu,D-Max,3.0TD Double Cab LSE,734400.0,3.0
+Mitsubishi,Triton,2.4DI-D Double Cab 4x4 Heritage,739990.0,2.4
+Nissan,Navara,2.5DDTi Double Cab LE 4x4 auto,740500.0,2.5
+Toyota,Land Cruiser,79 4.2D Single Cab,750900.0,4.2
+Nissan,Navara,2.5DDTi Double Cab PRO-2X,756500.0,2.5
+Toyota,Hilux,2.8GD-6 Double Cab Legend,757200.0,2.8
+Mitsubishi,Triton,2.4DI-D Double Cab 4x4 Xtreme,768990.0,2.4
+Ford,Ranger,2.0 BiTurbo SuperCab Wildtrak 4x4,772800.0,2.0
+Ford,Ranger,2.0 BiTurbo Double Cab Wildtrak,778300.0,2.0
+Isuzu,D-Max,3.0TD Double Cab V-Cross,779200.0,3.0
+Ford,Ranger,2.0 BiTurbo Double Cab XLT 4x4,782100.0,2.0
+Mazda,BT-50,3.0TD Double Cab Dynamic,782400.0,3.0
+Isuzu,D-Max,3.0TD Double Cab LSE 4x4,790400.0,3.0
+Toyota,Hilux,2.8GD-6 Double Cab 4x4 Raider auto,792600.0,2.8
+Volkswagen,Amarok,2.0BiTDI Double Cab Highline 4Motion,794200.0,2.0
+Volkswagen,Amarok,2.0BiTDI Double Cab Highline,799700.0,2.0
+Toyota,Land Cruiser,79 4.0 V6 Double Cab,801000.0,4.0
+Toyota,Hilux,2.8GD-6 Double Cab Legend auto,802300.0,2.8
+Nissan,Navara,2.5DDTi Double Cab PRO-4X 4x4,812900.0,2.5
+Toyota,Hilux,2.8GD-6 Double Cab 4x4 Legend,813900.0,2.8
+Mazda,BT-50,3.0TD Double Cab 4x4 Individual,818400.0,3.0
+Isuzu,D-Max,3.0TD Double Cab V-Cross 4x4,835100.0,3.0
+Toyota,Land Cruiser,79 4.2D Double Cab,839500.0,4.2
+Toyota,Hilux,4.0 V6 Double Cab 4x4 Legend,849200.0,4.0
+Toyota,Hilux,2.8GD-6 Double Cab 4x4 Legend auto,849600.0,2.8
+Toyota,Land Cruiser,79 4.5D-4D Single Cab LX V8,858500.0,4.5
+Volkswagen,Amarok,2.0BiTDI Double Cab Highline 4Motion auto,863900.0,2.0
+Ford,Ranger,2.0 BiTurbo Double Cab Wildtrak 4x4,867700.0,2.0
+Toyota,Hilux,2.8GD-6 Double Cab 4x4 GR-Sport,891400.0,2.8
+Toyota,Hilux,2.8GD-6 Double Cab Legend RS auto,895000.0,2.8
+Toyota,Hilux,2.8GD-6 Double Cab 4x4 Legend RS,909600.0,2.8
+Toyota,Land Cruiser,79 4.5D-4D LX V8 Double Cab,941200.0,4.5
+Toyota,Hilux,2.8GD-6 Double Cab 4x4 Legend RS auto,945400.0,2.8
+Ford,Ranger,3.0 V6 Double Cab Wildtrak 4WD,953500.0,3.0
+Volkswagen,Amarok,3.0 V6 TDI Double Cab Highline 4Motion,1025100.0,3.0
+Ford,Ranger,3.0 V6 EcoBoost Double Cab Raptor 4WD,1094900.0,3.0
+Volkswagen,Amarok,3.0 V6 TDI Double Cab Extreme 4Motion,1118200.0,3.0
+Jeep,Gladiator,3.6 Rubicon Double Cab,1329900.0,3.6
