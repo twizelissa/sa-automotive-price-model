@@ -3,5 +3,5 @@ services:
     name: sa-car-price-api
     env: python
     plan: free
-    buildCommand: pip install --upgrade pip && pip install --only-binary=:all: --find-links https://download.pytorch.org/whl/torch_stable.html -r requirements.txt
+    buildCommand: pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
