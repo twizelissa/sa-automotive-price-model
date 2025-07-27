@@ -4,15 +4,21 @@
 
 The South African automotive market lacks accessible price prediction tools for consumers and dealers. This system addresses the challenge of determining fair car values by leveraging machine learning to predict vehicle prices based on key features like brand, engine size, and luxury status. Our solution provides instant, accurate price estimates through both API and mobile interfaces, democratizing access to automotive valuation data for the South African market.
 
+## 🔗 **PROJECT LINKS**
+
+- **GitHub Repository**: https://github.com/twizelissa/sa-automotive-price-model
+- **Live API Documentation**: https://sa-automotive-price-model.onrender.com/docs
+- **Dataset Source**: https://www.kaggle.com/datasets/tamsanqalo/south-african-car-prices
+
 ## 🌐 **Live API Endpoint**
 
-**Public API**: [https://sa-automotive-price-model.onrender.com](https://sa-automotive-price-model.onrender.com)
+**Public API**: https://sa-automotive-price-model.onrender.com/predict
 
 Test the API using our [**Swagger UI Documentation**](https://sa-automotive-price-model.onrender.com/docs) - Click to access interactive API testing interface.
 
 ## 🎥 **Video Demonstration**
 
-[**Watch Demo Video**](https://youtu.be/YOUR_YOUTUBE_VIDEO_ID)  demonstration of the complete system functionality.
+[**Watch Demo Video**](https://youtu.be/YOUR_YOUTUBE_VIDEO_ID) - 5-minute demonstration of the complete system functionality.
 
 ## 📱 **How to Run the Mobile App**
 
@@ -100,12 +106,6 @@ curl -X POST https://sa-automotive-price-model.onrender.com/predict \
 - **Frontend**: Flutter (Dart), Material Design UI
 - **Deployment**: Render (API), Cross-platform mobile
 - **ML Model**: Decision Tree Regressor with preprocessing
-
-## 🔗 **Important Links**
-
-- [**GitHub Repository**](https://github.com/twizelissa/sa-automotive-price-model)
-- [**Live API Endpoint**](https://sa-automotive-price-model.onrender.com)
-- [**Interactive API Testing (Swagger UI)**](https://sa-automotive-price-model.onrender.com/docs)
 
 ---
 

@@ -46,6 +46,7 @@ class _CarPredictionPageState extends State<CarPredictionPage> {
 
   // API endpoint - replace with your deployed URL
   static const String apiUrl = 'https://sa-automotive-price-model.onrender.com/predict';
+  static const String fallbackApiUrl = 'http://sa-automotive-price-model.onrender.com/predict'; // HTTP fallback
 
   @override
   void dispose() {
@@ -91,72 +92,89 @@ class _CarPredictionPageState extends State<CarPredictionPage> {
       _errorMessage = '';
     });
 
-    // Retry logic for cold starts
-    int maxRetries = 2;
-    int currentRetry = 0;
+    // Try both HTTPS and HTTP endpoints
+    final List<String> apiUrls = [apiUrl, fallbackApiUrl];
+    
+    for (int urlIndex = 0; urlIndex < apiUrls.length; urlIndex++) {
+      String currentUrl = apiUrls[urlIndex];
+      int maxRetries = 2;
+      
+      for (int currentRetry = 0; currentRetry <= maxRetries; currentRetry++) {
+        try {
+          // Create HTTP client with longer timeout
+          final client = http.Client();
+          
+          // Send JSON with brand, engine_size, is_luxury fields
+          final response = await client.post(
+            Uri.parse(currentUrl),
+            headers: {
+              'Content-Type': 'application/json',
+              'Accept': 'application/json',
+              'User-Agent': 'Flutter App',
+            },
+            body: json.encode({
+              'brand': _brandController.text.trim(),
+              'engine_size': double.parse(_engineSizeController.text.trim()),
+              'is_luxury': _isLuxury,
+            }),
+          ).timeout(Duration(seconds: 30)); // 30 second timeout
 
-    while (currentRetry <= maxRetries) {
-      try {
-        setState(() {
-          if (currentRetry == 0) {
-            _errorMessage = 'Connecting to server...';
+          client.close(); // Close the client
+
+          if (response.statusCode == 200) {
+            final data = json.decode(response.body);
+            final double price = data['predicted_price_zar'].toDouble();
+            
+            setState(() {
+              // OUTPUT DISPLAY: Show predicted price in ZAR format
+              _result = 'Predicted Price: R${price.toStringAsFixed(2)} ZAR';
+              _isLoading = false;
+              _errorMessage = '';
+            });
+            
+            // FUNCTIONALITY: Clear form after prediction
+            _clearForm();
+            return; // Success, exit completely
           } else {
-            _errorMessage = 'Server starting up, please wait... (Attempt ${currentRetry + 1})';
-          }
-        });
-
-        // Send JSON with brand, engine_size, is_luxury fields
-        final response = await http.post(
-          Uri.parse(apiUrl),
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: json.encode({
-            'brand': _brandController.text.trim(),
-            'engine_size': double.parse(_engineSizeController.text.trim()),
-            'is_luxury': _isLuxury,
-          }),
-        ).timeout(Duration(seconds: currentRetry == 0 ? 15 : 45)); // Longer timeout for retries
-
-        if (response.statusCode == 200) {
-          final data = json.decode(response.body);
-          final double price = data['predicted_price_zar'].toDouble();
-          
-          setState(() {
-            // OUTPUT DISPLAY: Show predicted price in ZAR format
-            _result = 'Predicted Price: R${price.toStringAsFixed(2)} ZAR';
-            _isLoading = false;
-            _errorMessage = '';
-          });
-          
-          // FUNCTIONALITY: Clear form after prediction
-          _clearForm();
-          return; // Success, exit the retry loop
-        } else {
-          // Handle API errors
-          final errorData = json.decode(response.body);
-          setState(() {
-            _errorMessage = errorData['detail'] ?? 'Prediction failed';
-            _isLoading = false;
-          });
-          return; // API error, don't retry
-        }
-      } catch (e) {
-        currentRetry++;
-        
-        if (currentRetry > maxRetries) {
-          // Final attempt failed
-          setState(() {
-            if (e.toString().contains('TimeoutException')) {
-              _errorMessage = 'Server is taking too long to respond. This may be due to the server starting up. Please try again in a moment.';
-            } else {
-              _errorMessage = 'Network error: Unable to connect to server. Please check your internet connection and try again.';
+            // Handle API errors
+            try {
+              final errorData = json.decode(response.body);
+              setState(() {
+                _errorMessage = errorData['detail'] ?? 'Prediction failed (Status: ${response.statusCode})';
+                _isLoading = false;
+              });
+            } catch (e) {
+              setState(() {
+                _errorMessage = 'Server error (Status: ${response.statusCode})';
+                _isLoading = false;
+              });
             }
-            _isLoading = false;
-          });
-        } else {
-          // Wait before retry
-          await Future.delayed(Duration(seconds: currentRetry * 2));
+            return; // API error, don't retry
+          }
+        } catch (e) {
+          String errorMsg = e.toString();
+          
+          // If this is the last retry for the last URL, show final error
+          if (urlIndex == apiUrls.length - 1 && currentRetry == maxRetries) {
+            setState(() {
+              if (errorMsg.contains('TimeoutException') || errorMsg.contains('timeout')) {
+                _errorMessage = 'Server timeout: Unable to connect after trying both secure and standard connections.';
+              } else if (errorMsg.contains('SocketException') || errorMsg.contains('NetworkException')) {
+                _errorMessage = 'Network error: Please check your internet connection. Tried both HTTPS and HTTP.';
+              } else if (errorMsg.contains('HandshakeException') || errorMsg.contains('TlsException')) {
+                _errorMessage = 'SSL error: Secure connection failed. Please try again or check network settings.';
+              } else {
+                _errorMessage = 'Connection failed: ${errorMsg.length > 80 ? errorMsg.substring(0, 80) + "..." : errorMsg}';
+              }
+              _isLoading = false;
+            });
+            return;
+          }
+          
+          // Wait before retry (only if not the last attempt)
+          if (currentRetry < maxRetries) {
+            await Future.delayed(Duration(seconds: 2));
+          }
         }
       }
     }
