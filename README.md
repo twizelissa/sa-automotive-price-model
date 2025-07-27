@@ -105,8 +105,10 @@ curl -X POST https://sa-automotive-price-model.onrender.com/predict \
 - **Deployment**: Render (API), Cross-platform mobile
 - **ML Model**: Decision Tree Regressor with preprocessing
 
----
+## 📝 **Note on Contributors**
 
-*Built with ❤️ for the South African automotive market*
+**Note**: The contributor "Caline" listed in the GitHub repository did not actually contribute to this project. This was mistakenly added during testing and collaboration setup. All development, code, and implementation were done by the primary author.
+
+---
 
 
