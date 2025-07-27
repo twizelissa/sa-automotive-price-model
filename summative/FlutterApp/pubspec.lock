@@ -1,0 +1,5 @@
+flutter:
+  sdk: flutter
+
+dependencies:
+  http: ^1.1.0
