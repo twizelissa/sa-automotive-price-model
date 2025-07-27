@@ -18,7 +18,7 @@ Test the API using our [**Swagger UI Documentation**](https://sa-automotive-pric
 
 ## 🎥 **Video Demonstration**
 
-[**Watch Demo Video**](https://youtu.be/YOUR_YOUTUBE_VIDEO_ID) - 5-minute demonstration of the complete system functionality.
+[**Watch Demo Video**](https://www.youtube.com/watch?v=AUM9ZroiLzs) demonstration of the complete system functionality.
 
 ## 📱 **How to Run the Mobile App**
 
