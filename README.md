@@ -8,13 +8,11 @@ The South African automotive market lacks accessible price prediction tools for 
 
 - **GitHub Repository**: https://github.com/twizelissa/sa-automotive-price-model
 - **Live API Documentation**: https://sa-automotive-price-model.onrender.com/docs
-- **Dataset Source**: https://www.kaggle.com/datasets/tamsanqalo/south-african-car-prices
+- **Dataset Source**: https://www.kaggle.com/datasets/tamsanqalowan/car-prices-in-south-africa
 
-## 🌐 **Live API Endpoint**
 
 **Public API**: https://sa-automotive-price-model.onrender.com/predict
 
-Test the API using our [**Swagger UI Documentation**](https://sa-automotive-price-model.onrender.com/docs) - Click to access interactive API testing interface.
 
 ## 🎥 **Video Demonstration**
 
